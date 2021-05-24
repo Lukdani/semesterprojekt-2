@@ -1,2 +1,3 @@
-#Bootstrap & SASS Kick start projekt
-Klon dette projekt og kom hurtigt i gang med dit næste projekt.
+- Clone project;
+- Run NPM install to install dependencies;
+- run command "npm run sass" to watch updates to scss files;
