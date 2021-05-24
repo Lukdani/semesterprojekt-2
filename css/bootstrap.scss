@@ -1,0 +1,37 @@
+// DENNE FIL ER KUN TIL BOOTSTRAP RETTELSER
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+
+//Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
+/*
+Eksempel på farver
+$custom-colors: (
+        "primary": #0000ff,
+        "minFarve": #ffff00
+);
+ */
+
+$custom-red: #b54b37;
+$custom-green: #6c7e2c;
+$custom-green-light: #bcc4a0;
+$custom-accent: #f7ce21;
+$custom-background-color: #f2ecdd;
+
+$header-font: "Mate SC", serif;
+$font-family: "Roboto", "sans-serif";
+$background-transition: "background-color .25s ease-in";
+
+$custom-colors: (
+  "primary": $custom-red,
+  "secondary": $custom-green,
+  "red": $custom-red,
+  "warning": $custom-accent,
+  "green": $custom-green,
+  "green-light": $custom-green-light,
+  "background-color": $custom-background-color,
+);
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap";

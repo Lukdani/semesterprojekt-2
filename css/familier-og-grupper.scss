@@ -1,0 +1,80 @@
+@import "./bootstrap.scss";
+
+.familier-og-grupper-hero {
+  background-image: url("../images/familier_boern.jpeg");
+}
+
+.index-hero h1 {
+}
+
+.family-card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.family-card {
+  background-size: cover;
+  color: white;
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: white;
+  border-radius: 0.25rem;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  cursor: pointer;
+  @media screen and (min-width: 992px) {
+    width: calc(100% / 2 - 2rem);
+  }
+}
+
+.family-card .overlay {
+  visibility: hidden;
+}
+
+.family-card:hover .overlay {
+  visibility: visible;
+  opacity: 0.9;
+  transition: all 0.1s ease-in;
+}
+
+.family-card:hover h3 {
+  background-color: transparent;
+  transition: background-color 0.1s ease-in;
+}
+
+.family-card h3 {
+  background-size: cover;
+  background-color: $custom-green;
+  font-family: "Roboto", "sans-serif";
+  width: 80%;
+  text-align: center;
+  padding: 0.5rem 0;
+  border-radius: 0.25rem;
+  opacity: 0.8;
+  color: white;
+}
+
+.family-card-children {
+  background-image: url("../images/familier_boern.jpeg");
+}
+
+.family-card-seniors {
+  background-image: url("../images/seniorer.jpeg");
+}
+
+.family-card-rent {
+  background-image: url("../images/langhuset.jpeg");
+}
+.family-card-audioWalk {
+  background-image: url("../images/audio_walk.jpeg");
+}
+
+.family-card-children {
+  background-image: url("../images/familier_boern.jpeg");
+}

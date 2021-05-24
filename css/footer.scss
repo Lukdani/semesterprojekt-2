@@ -1,0 +1,30 @@
+@import "./bootstrap.scss";
+.footer {
+  background-color: $custom-green-light;
+  color: white;
+  border-top: 2px solid $custom-red;
+  padding: 2rem;
+}
+
+.footer h2 {
+  font-size: 1rem;
+}
+
+.footer .someSection {
+  text-align: right;
+}
+
+.footer .someIcon {
+  font-size: 2rem;
+  color: $custom-red;
+}
+
+.footer .someIcon:not(:last-of-type) {
+  margin-right: 0.5rem;
+}
+
+.footer .someIcon:hover {
+  transform: scale(1.1);
+  transition: all 0.25s ease-in;
+  cursor: pointer;
+}
