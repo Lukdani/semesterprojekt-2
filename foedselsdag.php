@@ -43,6 +43,29 @@ Varighed: 3½ timer
 Alderstrin: 5+
 	</div>
 	<div class="col col-12 col-lg-4">
+		<div class="infoBox">
+			<table>
+				<tbody>
+					<tr>
+						<td>Pris:</td>
+						<td>2.000 kr.</td>
+					</tr>
+					<tr>
+						<td>Varighed:</td>
+						<td>3 ½ timer</td>
+					</tr>
+					<tr>
+						<td>Aldersgruppe:</td>
+						<td>5 +</td>
+					</tr>
+					<tr>
+						<td>Deltagerantal:</td>
+						<td>Max 20</td>
+					</tr>
+				</tbody>
+			</table>
+			<button class="btn btn-primary">Book børnefødslesdag</button>
+		</div>
 <?php include "./includes/boern_nav.php"; ?>
 
 	</div>

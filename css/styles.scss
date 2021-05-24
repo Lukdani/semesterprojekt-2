@@ -268,3 +268,24 @@ img {
   color: $custom-red;
   transition: color 0.15s ease-in;
 }
+
+.infoBox {
+  background-color: $gray-500;
+  padding: 0.5rem;
+  color: white;
+
+  @media screen and (min-width: 992px) {
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+  }
+}
+
+.infoBox table {
+  margin-bottom: 0.5rem !important;
+  width: 100%;
+}
+
+.infoBox td:last-of-type {
+  padding-left: 1rem;
+  font-weight: 500;
+}
