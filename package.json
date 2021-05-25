@@ -1,7 +1,7 @@
 {
   "name": "npmtest",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Clone project;\r - Run NPM install to install dependencies;\r - run command \"npm run sass\" to watch updates to scss files;",
   "main": "index.js",
   "scripts": {
     "watch": "onchange \"css/*.scss\" -- npm run sass",
@@ -15,5 +15,13 @@
   "devDependencies": {
     "node-sass": "^5.0.0",
     "onchange": "^7.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukdani/semesterprojekt-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lukdani/semesterprojekt-2/issues"
+  },
+  "homepage": "https://github.com/Lukdani/semesterprojekt-2#readme"
 }

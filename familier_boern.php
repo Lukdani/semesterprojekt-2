@@ -24,7 +24,7 @@
 
 		  <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/rundvisning.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/rundvisning.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Rundvisning</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -35,7 +35,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/foedselsdag.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/foedselsdag.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Børnefødselsdag</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -47,7 +47,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/krigertraening.jpeg"" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/krigertraening.jpeg"" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Krigertræning</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -59,7 +59,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/foredrag.jpeg"" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/foredrag.jpeg"" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Foredrag</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -71,7 +71,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/10kamp.png"" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/10kamp.png"" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">10 kamp</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -82,7 +82,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/familiedag.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/familiedag.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Familiedag</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -93,7 +93,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/vikingemenu.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/vikingemenu.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Tilbered en vikingemenu</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
@@ -104,7 +104,7 @@
 
 <div class=" card-25">
 		  <div class="card">
-  <img class="card-img-top" src="../images/oplevelsesjagten.png" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/oplevelsesjagten.png" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Oplevelsesjagten</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>

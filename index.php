@@ -12,7 +12,7 @@
 		  <!-- <h1>
 			  Åbent 10-17
 			  <br/>
-			  Tirsdag - søndag
+			  Tirsdag - Søndag
 </h1> -->
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
@@ -24,7 +24,7 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="../images/seniorer.jpeg" class="d-block w-100" alt="...">
+      <img src="./images/seniorer.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Familie og grupper</h5>
         <p>Skal du holde <strong>børnefødselsdag</strong>, <strong>firmaarragement</strong>, <strong>klubtur</strong> eller noget andet? <br> Så hold dit næste arragement i Vikingeborgen Trelleborg. </p>
@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../images/familier_boern.jpeg" class="d-block w-100" alt="...">
+      <img src="./images/familier_boern.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Skoler og institutioner</h5>
 		<p>Prøv vores et af vores tilrettelagte undervisningsforløb.</p>
@@ -42,7 +42,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../images/langhuset.jpeg" class="d-block w-100" alt="...">
+      <img src="./images/langhuset.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
 	  <h5>Trelleborgs historie</h5>
 	  <p>Læs alt om Vikingeborgen Trelleborgs historie</p>
@@ -64,13 +64,12 @@
 	  <div class="section">
 		  <h1 class="section-header">Aktiviteter</h1>
 		  <div class="activity-card-container">
-
 		  <div class=" card-33">
 		  <div class="card">
-  <img class="card-img-top" src="../images/de_doede.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/de_doede.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">De døde på Trelleborg</h5>
-	<h6 class="card-subtitle mb-2 text-muted">22/05 - 24/05</h6>
+    <h4 class="card-title">De døde på Trelleborg</h4>
+	<h5 class="card-subtitle mb-2 text-muted">22/05 - 24/05</h5>
     <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
     <a href="#" class="btn btn-primary">Læs mere</a>
   </div>
@@ -79,10 +78,10 @@
 
 <div class=" card-33">
 		  <div class="card">
-  <img class="card-img-top" src="../images/de_doede.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/de_doede.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Vikingesommer</h5>
-	<h6 class="card-subtitle mb-2 text-muted">27/06 - 15/08</h6>
+    <h4 class="card-title">Vikingesommer</h4>
+	<h5 class="card-subtitle mb-2 text-muted">27/06 - 15/08</h5>
     <p class="card-text">Sommeren står for døren, og der er masser af planlagte aktiviteter.</p>
     <a href="#" class="btn btn-primary">Læs mere</a>
   </div>
@@ -91,11 +90,11 @@
 
 <div class=" card-33">
 		  <div class="card">
-  <img class="card-img-top" src="../images/de_doede.jpeg" class="activity-card-image" alt="Card image cap">
+  <img class="card-img-top" src="./images/de_doede.jpeg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Vikingefestival</h5>
-	<h6 class="card-subtitle mb-2 text-muted">7/06 - 25/07</h6>
-    <p class="card-text">Oplev vikingemusik og fest og masser af lorem.</p>
+    <h4 class="card-title">Vikingefestival</h4>
+	<h5 class="card-subtitle mb-2 text-muted">7/06 - 25/07</h5>
+    <p class="card-text">Oplev vikingemusik og fest og masser af loremm.</p>
     <a href="#" class="btn btn-primary">Læs mere</a>
   </div>
 </div>
@@ -107,7 +106,7 @@
 <div class="section">
 <h1 class="section-header">Skoler og institutioner</h1>
 <div class="row">
-	<div class="col col-lg-8 col-12">
+	<div class="col col-lg-8 col-12 m-2">
 	Vikingeborgen Trelleborg tilbyder mange spændende undervisningsforløb tilpasset alle klassetrin.
 	<br></br>
 
@@ -116,7 +115,7 @@ Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i 
 <button class="btn btn-primary" >Læs mere om vores tilbud for skoler her</button>	
 </div>
 	<div class="col col-lg-4 col-12">
-		<img src="../images/trelleborg.jpeg"/>
+		<img src="./images/trelleborg.jpeg"/>
 	</div>
 </div>
 </div>
