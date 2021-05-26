@@ -29,7 +29,7 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="#">Rundvisninger</a>
-            <a class="dropdown-item" href="#">Vikingefestival</a>
+            <a class="dropdown-item" href="det-sker.php">Vikingefestival</a>
             <a class="dropdown-item" href="#">Vikingesommer</a>
           </div>
         </li>
