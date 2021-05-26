@@ -31,16 +31,21 @@
 	<div class="col col-12 col-lg-8">
 		
 	<img src="./images/foedselsdag.jpeg" alt="">
-	Hold børnefødselsdag på  Trelleborg – en dag med historiske lege, vikingemad, sjove aktiviteter og masser af gode oplevelser.
+	<div class="mt-3 mb-3 p-3 bg-white foedselsdag-info" >
+        Hold børnefødselsdag på  Trelleborg – en dag med historiske lege, vikingemad, sjove aktiviteter og masser af gode oplevelser.
 
-Vikingeborgen Trelleborg tilbyder unikke rammer for en spændende børnefødselsdag på ægte vikingemanér med masser af gode oplevelser. Dagen vil blive sammensat ud fra aldersgruppen og om fødselsdagsbarnet er en dreng eller en pige. Museet vil udarbejde et oplæg til programmet ud fra ønsker og behov.
-
-Et eksempel:
-Børnene mødes på Trelleborg. Efter velkomsten får børnene vikingetøj på. Den første time prøver børnene bueskydning, tinstøbning, laver læderpunge eller leger vikingelege. Derefter samles alle ved bålet og bager fladbrød, der spises med pølser eller sødt fyld. Så er det tid til at drage ud på den spændende Jagt på Trelleborgs skatte.
-
-Pris. 2000kr. Max 20 personer
-Varighed: 3½ timer
-Alderstrin: 5+
+        Vikingeborgen Trelleborg tilbyder unikke rammer for en spændende børnefødselsdag på ægte vikingemanér med masser af gode oplevelser.
+            <br><br>
+            Dagen vil blive sammensat ud fra aldersgruppen og om fødselsdagsbarnet er en dreng eller en pige. Museet vil udarbejde et oplæg til programmet ud fra ønsker og behov.
+            <br><br>
+        Et eksempel:
+        Børnene mødes på Trelleborg. Efter velkomsten får børnene vikingetøj på. Den første time prøver børnene bueskydning, tinstøbning, laver læderpunge eller leger vikingelege. Derefter samles alle ved bålet og bager fladbrød, der spises med pølser eller sødt fyld. Så er det tid til at drage ud på den spændende Jagt på Trelleborgs skatte.
+        <br><br>
+        <b>Pris. 2000kr. Max 20 personer
+        Varighed: 3½ timer
+        Alderstrin: 5+
+        </b>
+    </div>
 	</div>
 	<div class="col col-12 col-lg-4">
 		<div class="infoBox">

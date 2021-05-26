@@ -22,7 +22,7 @@
 
 .navbar-collapse .show {
   background-color: $custom-red;
-  @media (min-width: 992) {
+  @media (min-width: 992px) {
     background-color: $custom-red;
   }
 }
@@ -33,11 +33,10 @@
 
 .navbar a {
   color: white;
-  font-size: 1.1rem;
+  font-size: larger;
   border-radius: 0.25rem;
   // text-transform: uppercase;
 }
-
 .navbar li:not(:last-of-type) {
   margin-right: 0.25rem;
 }
