@@ -1,7 +1,7 @@
 @import "./bootstrap.scss";
 
 .familier-og-grupper-hero {
-  background-image: url("../images/familier_boern.jpeg");
+  background-image: url("/images/familier_boern.jpeg");
 }
 
 .index-hero h1 {
@@ -61,27 +61,27 @@
 }
 
 .family-card-children {
-  background-image: url("./images/familier_boern.jpeg");
+  background-image: url("/images/familier_boern.jpeg");
 }
 
 .family-card-seniors {
-  background-image: url("./images/seniorer.jpeg");
+  background-image: url("/images/seniorer.jpeg");
 }
 
 .family-card-rent {
-  background-image: url("./images/langhuset.jpeg");
+  background-image: url("/images/langhuset.jpeg");
 }
 .family-card-audioWalk {
-  background-image: url("./images/audio_walk.jpeg");
+  background-image: url("/images/audio_walk.jpeg");
 }
 .family-card-firmaer {
-  background-image: url("./images/firmaer.jpg");
+  background-image: url("/images/firmaer.jpg");
 }
 .family-card-skoler {
-  background-image: url("./images/skoler.jpg");
+  background-image: url("/images/skoler.jpg");
 }
 
-.foedselsdag-info{
+.foedselsdag-info {
   background-color: white;
   font-size: large;
 }
