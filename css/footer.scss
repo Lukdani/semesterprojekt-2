@@ -28,3 +28,7 @@
   transition: all 0.25s ease-in;
   cursor: pointer;
 }
+
+.footer table tr td:not(:first-child) {
+  padding-left: 1rem;
+}

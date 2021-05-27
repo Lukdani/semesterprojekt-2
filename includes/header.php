@@ -17,21 +17,12 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item dropdown">
-          <a
-            class="nav-link dropdown-toggle"
-            href="#"
-            id="navbarDropdown"
-            role="button"
-            data-bs-toggle="dropdown"
-            aria-expanded="false"
+        <a
+            class="nav-link"
+            href="./det-sker.php"
           >
             Det sker
           </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Rundvisninger</a>
-            <a class="dropdown-item" href="det-sker.php">Vikingefestival</a>
-            <a class="dropdown-item" href="#">Vikingesommer</a>
-          </div>
         </li>
 
         <li class="nav-item dropdown">
@@ -45,9 +36,9 @@
         <li class="nav-item dropdown">
           <a
             class="nav-link"
-            href="./familier-og-grupper.php"
+            href="./rundvisninger.php"
           >
-            Skoler og institutioner
+            Rundvisninger
           </a>
         </li>
         <li class="nav-item dropdown">
