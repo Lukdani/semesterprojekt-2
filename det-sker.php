@@ -25,7 +25,12 @@
         </div>
     </div>
 </div>
-<div class="container-fluid bg-customLight">
+
+
+
+
+
+<div class="container-fluid bg-background-color">
 
     <div class="container">
         <h3 class="pageHeader">Kommende arrangementer</h3>
@@ -46,9 +51,16 @@
 
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem <strong>mega cool</strong>.
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem...
-                        <p class="article-details">"Kom og vær med, der er pølser og fadøl"</em><br>
+                        <ul>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                        </ul>
+                        <br>
+                        <p class="article-details">"Kom og vær med, æd nogle pølser og drik fadøl"</p>
                         </p>
-                        <a href="#" class="btn btn-customBlue">Læs mere</a>
+
                     </div>
                 </div>
             </div>
@@ -69,9 +81,15 @@
 
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem <strong>mega cool</strong>.
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem...
-                        <p class="article-details">"Kom og vær med, der er pølser og fadøl"</em><br>
+                        <ul>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                        </ul>
+                        <br>
+                        <p class="article-details">"Kom og vær med, æd nogle pølser og drik fadøl"</p>
                         </p>
-                        <a href="#" class="btn btn-customBlue">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -91,9 +109,15 @@
 
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem <strong>mega cool</strong>.
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem...
-                        <p class="article-details">"Kom og vær med, der er pølser og fadøl"</em><br>
+                        <ul>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                        </ul>
+                        <br>
+                        <p class="article-details">"Kom og vær med, æd nogle pølser og drik fadøl"</p>
                         </p>
-                        <a href="#" class="btn btn-customBlue">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -113,9 +137,15 @@
 
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem <strong>mega cool</strong>.
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem...
-                        <p class="article-details">"Kom og vær med, der er pølser og fadøl"</em><br>
+                        <ul>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                        </ul>
+                        <br>
+                        <p class="article-details">"Kom og vær med, æd nogle pølser og drik fadøl"</p>
                         </p>
-                        <a href="#" class="btn btn-customBlue">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -134,9 +164,15 @@
 
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem <strong>mega cool</strong>.
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem...
-                        <p class="article-details">"Kom og vær med, der er pølser og fadøl"</em><br>
+                        <ul>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                        </ul>
+                        <br>
+                        <p class="article-details">"Kom og vær med, æd nogle pølser og drik fadøl"</p>
                         </p>
-                        <a href="#" class="btn btn-customBlue">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -155,14 +191,21 @@
 
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem <strong>mega cool</strong>.
                             Lorem torem dorem smorem klorem borem morem tolorem lalaloremius torolorolerem...
-                        <p class="article-details">"Kom og vær med, der er pølser og fadøl"</em><br>
+                        <ul>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                        </ul>
+                        <br>
+                        <p class="article-details">"Kom og vær med, æd nogle pølser og drik fadøl"</p>
                         </p>
-                        <a href="#" class="btn btn-customBlue">Læs mere</a>
                     </div>
                 </div>
             </div>
 
         </div>
+        <br>
     </div>
 </div>
 
