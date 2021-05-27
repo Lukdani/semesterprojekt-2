@@ -1,3 +1,3 @@
 - Clone project;
 - Run NPM install to install dependencies;
-- run command "npm run sass" to watch updates to scss files;
+- run command "npm run watch" to watch updates to scss files;
