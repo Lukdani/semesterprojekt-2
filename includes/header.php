@@ -80,15 +80,15 @@
           EN
           </a>
         </li>
-        <li class="nav-item">
+  
+      </ul>
           <a href="" class="">
           <button class="btn btn-primary">
             Booking
           </button>
 
           </a>
-        </li>
-      </ul>
+
     </div>
   </nav>
 </div>
