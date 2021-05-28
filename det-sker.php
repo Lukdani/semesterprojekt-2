@@ -31,17 +31,20 @@
 
 
 <div class="container-fluid bg-background-color">
-
+    <br>
     <div class="container">
         <h3 class="pageHeader">Kommende arrangementer</h3>
+        <br>
         <div class="row gy-5 gx-5">
 
 
             <div class="col-12 col-md-6 col-xl-6">
 
                 <div class="card article">
-                    <h5 class="card-title">Vikingemarked</h5>
-                    <p class="article-details">Torsdag d. 24 Juni</p>
+                    <div class="titledate">
+                        <h5 class="card-title">Vikingemarked</h5>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
+                    </div>
                     <img src="images/viking_bod.jpg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
@@ -70,8 +73,10 @@
             <div class="col-12 col-md-6 col-xl-6">
 
                 <div class="card article">
-                    <h5 class="card-title">Rundvisninger</h5>
-                    <p class="article-details">Torsdag d. 24 Juni</p>
+                    <div class="titledate">
+                        <h5 class="card-title">Rundvisninger</h5>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
+                    </div>
                     <img src="images/viking_bod.jpg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
@@ -98,8 +103,10 @@
             <div class="col-12 col-md-6 col-xl-6">
 
                 <div class="card article">
-                    <h5 class="card-title">Festival</h5>
-                    <p class="article-details">Torsdag d. 24 Juni</p>
+                    <div class="titledate">
+                        <h5 class="card-title">Vikinge festival</h5>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
+                    </div>
                     <img src="images/viking_bod.jpg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
@@ -126,8 +133,10 @@
             <div class="col-12 col-md-6 col-xl-6">
 
                 <div class="card article">
-                    <h5 class="card-title">Sommer</h5>
-                    <p class="article-details">Torsdag d. 24 Juni</p>
+                    <div class="titledate">
+                        <h5 class="card-title">Vikingesommer</h5>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
+                    </div>
                     <img src="images/viking_bod.jpg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
@@ -153,8 +162,10 @@
             <div class="col-12 col-md-6 col-xl-6">
 
                 <div class="card article">
-                    <h5 class="card-title">Vikingearrangement 1</h5>
-                    <p class="article-details">Torsdag d. 24 Juni</p>
+                    <div class="titledate">
+                        <h5 class="card-title">Vikinge togt</h5>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
+                    </div>
                     <img src="images/viking_bod.jpg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
@@ -180,8 +191,10 @@
             <div class="col-12 col-md-6 col-xl-6">
 
                 <div class="card article">
-                    <h5 class="card-title">Vikingearrangement 2</h5>
-                    <p class="article-details">Torsdag d. 24 Juni</p>
+                    <div class="titledate">
+                        <h5 class="card-title">Vikingeskibs sejlads</h5>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
+                    </div>
                     <img src="images/viking_bod.jpg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
