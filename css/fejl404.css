@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    margin: 2px 10px 2px 10px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+li {
+    margin: 0; /* Ingen ydre margen fra listpunkter */
+}
+
+p {
+    margin: 0; /* Ingen ydre margen fra paragraffer */
+    padding: 0; /* Ingen indre margen fra paragraffer */
+}
+
+/* Sikrer billeder er responsive */
+img {
+    display: block; /* Billeder er et element (laver linjeskift) */
+    max-width: 100%; /* Bredde må maks fylde 100% */
+    height: auto; /* Højden skal tilpasse sig */
+}
+
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.title{
+	margin-top: 200px;
+	font-size: 36px;
+	text-align: center;
+	width: 100%;
+}
+.indhold{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	font-size: 220px;
+	width: 100%;
+
+}
+
+.nav{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+.button{
+	background-color: #6C7E2C;
+	padding: 20px 40px 20px 40px;
+	font-size: 32px;
+	color: white;
+	margin: 20px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	border-radius: 4px;
+	border: none;
+}
+a{
+	color: white;
+	text-decoration: inherit;
+}
+
+.placeholder{
+	width: 300px;
+	height: 350px;
+	background-color: #0a58ca;
+}
+
+span {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+}
