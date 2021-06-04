@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="da">
 <head>
-    <meta charset="utf-8">
 
     <title>Det sker</title>
     <link href="./css/det-sker.css" rel="stylesheet" type="text/css">
