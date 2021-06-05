@@ -1,3 +1,5 @@
+<link href="./css/footer.css" rel="stylesheet" type="text/css">
+
 <div class="footer">
 <div class="row">
     <div class="col col-12 col-lg-4">
@@ -40,16 +42,13 @@
                 <td>10-17</td>
             </tr>
             <tr>
-                <td>Lørdag:</td>
-                <td>10-17</td>
-            </tr>
-            <tr>
-                <td>Søndag:</td>
+                <td>Weekend:</td>
                 <td>10-17</td>
             </tr>
         </tbody>
     </table>
-    <p>Fri entre - mulighed for køb af rundvisning m.v.</p>
+
+    <p>Fri entre - mulighed for køb af <a href="rundvisninger.php" class="text-white text-decoration-none"><strong>rundvisning</strong></a> m.v.</p>
 
     </div>
     <div class="col col-12 col-lg-4 someSection">
