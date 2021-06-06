@@ -59,7 +59,7 @@
 						<img style="float: right" src="images/CoViking.jpg" alt="Viking med maske og hjelm "/>
 
 
-						<p class="card-text"> I museets åbningstid, skal du kunne fremvise en negativ Coronatest eller medbringe dit Coronapas, som er indenfor 72 timer, samt gyldigt ID. Børn under 14 år er fritaget.
+						<p class="card-text">
 
 							<p>Efter museets lukketid, er der fri adgang til Trelleborgs område, gennem lågen til venstre for museets indgang.</p>
 
@@ -83,7 +83,7 @@
 						<h4>Trelleborg og COVID-19</h4>
 						<p class="article-details"><strong>Museet følger regeringens anbefalinger forbindelse med Corona-krisen</strong></p>
 						<p>Husk mundbind, hold afstand til andre gæster og sprit hænder.</p>
-						<p>For at besøge Vikingeborgen Trelleborg, skal du kunne fremvise en negativ Coronatest, som er indenfor 72 timer, samt gyldigt ID. Børn under 14 år er fritaget.</p>
+						<p>I museets åbningstid, skal du kunne fremvise Coronapas, eller negativ Coronatest som er indenfor 72 timer, samt gyldigt ID. Børn under 14 år er fritaget.</p>
 
 
 				</div>

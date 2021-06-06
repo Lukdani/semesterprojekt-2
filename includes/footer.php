@@ -13,6 +13,8 @@
         4200 Slagelse
         <br/>
         +45 41 20 63 99
+        <br/>
+        email@trelleborg.dk
 </p>
 
 </div>
