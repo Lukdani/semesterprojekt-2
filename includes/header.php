@@ -76,7 +76,7 @@
         </li>
         <li class="nav-item">
           <a href="" class="nav-link">
-          <i class="fas fa-globe"></i>
+          <i class="fas fa-globe text-green"></i>
           EN
           </a>
         </li>

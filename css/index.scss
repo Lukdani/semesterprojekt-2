@@ -3,3 +3,85 @@
 .index-hero {
   background-image: url("../images/trelleborg_hq.jpeg");
 }
+
+.featureBox-container {
+  margin: 0 !important;
+  background-image: url("/images/plakat.jpg");
+  background-size: cover;
+  padding: 3rem 1rem;
+}
+
+.featureBox-container {
+  .card {
+    margin-bottom: 1rem;
+    background-color: $custom-background-color;
+    margin-bottom: 1rem;
+    @media screen and (min-width: 992px) {
+      height: 100%;
+      margin-bottom: 0;
+    }
+  }
+
+  .card-text span {
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  .card-title {
+    margin-bottom: 1rem;
+  }
+  text-align: center;
+}
+
+header {
+  position: relative;
+  background-color: black;
+  height: 30rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+.heroText-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.heroText {
+  color: white;
+  margin: auto;
+  h1 {
+    font-family: $header-font;
+    font-size: 3rem;
+  }
+}

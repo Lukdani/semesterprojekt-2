@@ -46,6 +46,7 @@
 .family-card:hover h3 {
   background-color: transparent;
   transition: background-color 0.1s ease-in;
+  z-index: 10;
 }
 
 .family-card h3 {
@@ -58,6 +59,7 @@
   border-radius: 0.25rem;
   opacity: 0.8;
   color: white;
+  z-index: 10;
 }
 
 .family-card-children {
