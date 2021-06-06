@@ -83,7 +83,7 @@
     <h4 class="card-title">Vikingesommer</h4>
 	<h5 class="card-subtitle mb-2 text-muted">27/06 - 15/08</h5>
     <p class="card-text">Sommeren står for døren, og der er masser af planlagte aktiviteter.</p>
-    <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
+    <a href="det-sker.php#vikingesommer" class="btn btn-primary">Læs mere</a>
   </div>
 </div>
 </div>

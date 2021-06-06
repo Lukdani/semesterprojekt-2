@@ -138,7 +138,7 @@
 
             <div class="col-12 col-md-6 col-xl-6">
 
-                <div class="card article">
+                <div class="card article" id="vikingesommer">
                     <div class="titledate">
                         <h5 class="card-title">Vikingesommer</h5>
                         <p class="article-details">Søndag d.27 Juni - søndag d.15 August</p>
