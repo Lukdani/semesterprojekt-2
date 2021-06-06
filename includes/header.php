@@ -53,27 +53,20 @@
             Om Trelleborg
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Trelleborgs historie</a>
-            <a class="dropdown-item" href="#">Unesco</a>
-            <a class="dropdown-item" href="#">Ny Trelleborg</a>
+            <a class="dropdown-item" href="fejl404.html">Trelleborgs historie</a>
+            <a class="dropdown-item" href="fejl404.html">Unesco</a>
+            <a class="dropdown-item" href="fejl404.html">Ny Trelleborg</a>
           </div>
         </li>
 
-        <li class="nav-item dropdown">
-          <a
-            class="nav-link dropdown-toggle"
-            href="#"
-            id="navbarDropdown"
-            role="button"
-            data-bs-toggle="dropdown"
-            aria-expanded="false"
-          >
-            Kontakt og info
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Frivillige</a>
-          </div>
-        </li>
+          <li class="nav-item dropdown">
+              <a
+                      class="nav-link"
+                      href="KontaktOgInfo.php"
+              >
+                  Kontakt og Info
+              </a>
+          </li>
         <li class="nav-item">
           <a href="" class="nav-link">
           <i class="fas fa-globe"></i>
