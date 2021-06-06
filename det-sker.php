@@ -52,7 +52,7 @@
                 <div class="card article">
                     <div class="titledate">
                         <h5 class="card-title">Midsommer fest + Sankt Hans</h5>
-                        <p class="article-details">Torsdag d.24 Juni</p>
+                        <p class="article-details">Torsdag d. 24 Juni</p>
                     </div>
                     <img src="images/ild.jpg" class="card-img-top"" alt="Flames" alt="Card image cap">
                     <div class="card-body bg-light">
@@ -84,7 +84,7 @@
                 <div class="card article">
                     <div class="titledate">
                         <h5 class="card-title">Mjødsmagning</h5>
-                        <p class="article-details">Lørdag d.26 Juni</p>
+                        <p class="article-details">Lørdag d. 26 Juni</p>
                     </div>
                     <img src="images/drinks.jpg" class="card-img-top"" alt="Drinking horn" alt="Card image cap">
                     <div class="card-body bg-light">
@@ -92,10 +92,10 @@
                         <p class="card-text"> Hvis der var én ting vikingerne altid skulle have med til deres fester, så var det den gyldne drik <strong>mjød</strong>.
                             <br>
 
-                            Det er en facinerende historie der gemmer sig bag brygning af mjød, fra traditionelle opskrifter til moderne udgaver, mjød er en drik der har
+                            Det er en facinerende historie der gemmer sig bag brygning af mjød. Fra traditionelle opskrifter til moderne udgaver, mjød er en drik der har
                             <strong>overlevet gennem historien</strong>.
                             <br>
-                        Kom og få et indblik i hvordan man bryggede mjød for over tusionde år siden, sammenlignet med brygning i dag. Smag samtidig også på noget af nutidens mest populære mjød, og få en god historie med hjem.
+                        Kom og få et indblik i hvordan man bryggede mjød for over tusinde år siden, sammenlignet med brygning i dag. Smag samtidig også på noget af nutidens mest populære mjød, og få en god historie med hjem.
                         <ul>
                             <li>Mjødets historie</li>
                             <li>Prøvesmagning</li>
@@ -113,8 +113,8 @@
 
                 <div class="card article">
                     <div class="titledate">
-                        <h5 class="card-title">Vikinge festival</h5>
-                        <p class="article-details">Lørdag d.17 - Søndag d.25 Juli</p>
+                        <h5 class="card-title">Vikingefestival</h5>
+                        <p class="article-details">Lørdag d. 17 Juli - Søndag d. 25 Juli</p>
                     </div>
                     <img src="images/festival.jpg" class="card-img-top"" alt="Viking party" alt="Card image cap">
                     <div class="card-body bg-light">
@@ -141,7 +141,7 @@
                 <div class="card article" id="vikingesommer">
                     <div class="titledate">
                         <h5 class="card-title">Vikingesommer</h5>
-                        <p class="article-details">Søndag d.27 Juni - søndag d.15 August</p>
+                        <p class="article-details">Søndag d. 27 Juni - søndag d. 15 August</p>
                     </div>
                     <img src="images/sommer.jpg" class="card-img-top"" alt="Sol og sværd" alt="Card image cap">
                     <div class="card-body bg-light">
@@ -171,8 +171,8 @@
 
                 <div class="card article">
                     <div class="titledate">
-                        <h5 class="card-title">Vikinge togt</h5>
-                        <p class="article-details">Tirsdag d.17 August</p>
+                        <h5 class="card-title">Vikingetogt</h5>
+                        <p class="article-details">Tirsdag d. 17 August</p>
                     </div>
                     <img src="images/togtet.jpg" class="card-img-top"" alt="Vikinger går i land" alt="Card image cap">
                     <div class="card-body bg-light">
@@ -202,7 +202,7 @@
                 <div class="card article">
                     <div class="titledate">
                         <h5 class="card-title">Vikingemarked</h5>
-                        <p class="article-details">Søndag d.15 August</p>
+                        <p class="article-details">Søndag d. 15 August</p>
                     </div>
                     <img src="images/marked.jpeg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
