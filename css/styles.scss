@@ -49,14 +49,15 @@ img {
 
 .section-header {
   text-align: center;
-  padding: 1rem 0;
+  // padding: 1rem 0;
   width: 100%;
   margin: auto;
   margin-bottom: 2rem;
-  border-bottom: 3px solid $custom-red;
+  color: $custom-background-color;
+  // border-bottom: 3px solid $custom-red;
   font-family: $header-font;
   line-height: 1;
-  font-size: 54px;
+  font-size: 3rem;
 }
 
 .activity-card-container {

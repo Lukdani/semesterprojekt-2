@@ -5,13 +5,13 @@
 }
 
 .navbar {
-  background-color: $custom-green-light-opacity;
+  background-color: $custom-green-opacity;
   color: white;
   text-align: center;
   font-family: "Roboto", sans-serif;
   padding: 0.5rem 2rem;
   @media screen and (min-width: 992px) {
-    background-color: $custom-green-light-opacity;
+    background-color: $custom-green-opacity;
     padding: 0 2rem !important;
   }
 }
