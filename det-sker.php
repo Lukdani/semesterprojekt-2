@@ -1,9 +1,18 @@
 <!DOCTYPE html>
 <html lang="da">
 <head>
-    <meta charset="utf-8">
-
     <title>Det sker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Oversigt over de kommende events og arrangementer der vil være på Trelleborg">
+    <meta name="keywords" content="oplevelser, sommerferie, museum">
+
+
+    <meta property="og:title" content="Det sker på Trelleborg"/>
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/festival.jpg"/>
+    <meta property="og:description" content="Dette sker i sommeren hos Trelleborg"/>
+
+
+
     <link href="./css/det-sker.css" rel="stylesheet" type="text/css">
 
     <?php include "./includes/dependencies.php"; ?>

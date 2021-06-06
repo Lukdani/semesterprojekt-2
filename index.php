@@ -15,7 +15,7 @@
   <div class="container h-100">
     <div class="heroText-container">
       <div class="heroText">
-        <h1>Besøg Trelleborg</h1>
+        <h1>Sommer på Trelleborg</h1>
         <h5>Tag hele familien med</h5>
       </div>
     </div>
@@ -119,7 +119,7 @@
 			  </h4>
 			  <p class="card-text">
 				  <span>
-				  Få krigertræning, tilbered et vikingemåltid over bål, overnat i langhuset.
+				  Få krigertræning, tilbered et vikingemåltid over bål, overnat i langhuset, hold børnefødselsdag.
 </span>
 				 <span>
 				  Skal du på oplevelse med familien, skolen eller andre, så har vi et velrettelagt forløb fyldt med oplevelser<br>
@@ -139,12 +139,11 @@
 			<br> 
 		Kom på rundtur</h4>
 			  <p class="card-text">
-				  <span>Vikingeborgen Trelleborg udbyder lærerige rundture - uanset gruppens størrelse og alderssammensætning.</span>
-				  <span>Vores rundvisere er eksperter i vikingetiden og i Trelleborgs historie og har en indlevende fortællestil.</span>
-				
+				  <span>Få en rundvisning på Vikingeborgen Trelleborg af vores dygtige instruktører.</span>
+				  <span>Bliv vist rundt både ved ringborgen, i langhuset, i vores museumsudstillinger og meget andet.</span>
 				</p>
 			  <a href="#" class="btn btn-primary">Læs mere</a>
-			  </div>
+			  </div>	
 		  </div>
 </div>
 
@@ -158,12 +157,13 @@
 		  <div class=" activity-card-container">
 		  <div class="card-33">
 		  <div class="card">
-  <img class="card-img-top" src="./images/plakat.jpg" class="activity-card-image" alt="Card image cap">
+
+  <img class="card-img-top" src="./images/rundtur.jpg" class="activity-card-image" alt="Card image cap">
   <div class="card-body">
-    <h4 class="card-title">De døde på Trelleborg</h4>
-	<h5 class="card-subtitle mb-2 text-muted">22/05 - 24/05</h5>
-    <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-    <a href="#" class="btn btn-primary">Læs mere</a>
+    <h4 class="card-title">Rundvisning</h4>
+	<h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
+    <p class="card-text">Få en rundvisning på Vikingeborgen Trelleborg. I bliver vist rundt både ved ringborgen, i langhuset, og i vores museumsudstillinger.</p>
+    <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
   </div>
   </div>
   </div>
@@ -177,19 +177,21 @@
     <h4 class="card-title">Vikingesommer</h4>
 	<h5 class="card-subtitle mb-2 text-muted">27/06 - 15/08</h5>
     <p class="card-text">Sommeren står for døren, og der er masser af planlagte aktiviteter.</p>
-    <a href="#" class="btn btn-primary">Læs mere</a>
+    <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
   </div>
 </div>
 </div>
 
 <div class=" card-33">
 		  <div class="card">
-  <img class="card-img-top" src="./images/foto.jpg" class="activity-card-image" alt="Card image cap">
+
+  <img class="card-img-top" src="./images/mini_vikinger.jpg" class="activity-card-image" alt="Card image cap">
+
   <div class="card-body">
-    <h4 class="card-title">Vikingefestival</h4>
-	<h5 class="card-subtitle mb-2 text-muted">7/06 - 25/07</h5>
-    <p class="card-text">Oplev vikingemusik og fest og masser af loremm.</p>
-    <a href="#" class="btn btn-primary">Læs mere</a>
+    <h4 class="card-title">Børneaktiviteter</h4>
+	<h5 class="card-subtitle mb-2 text-muted">For de mindste vikinger</h5>
+    <p class="card-text">Trelleborg er for <strong>hele</strong> familien, også de mindste. Vi har børnefødselsdage, krigertræning og Ester & Vester's Oplevelsesjagt</p>
+    <a href="familier_boern.php" class="btn btn-primary">Læs mere</a>
   </div>
 </div>
 </div>
