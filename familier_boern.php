@@ -4,6 +4,20 @@
 	<meta charset="utf-8">
 	
 	<title>Familier og grupper</title>
+
+    <!--Meta tags etc. -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Børn på Trelleborg skal ikke gå og kede sig, som de mange gange gør når man tager på museum. Derfor har vi masser af gode, fantasifulde og innovative tilbud til selv de mindste i familien.">
+    <meta name="keywords" content="familie, museum, oplevelser">
+
+
+    <meta property="og:title" content="Børn på Trelleborg"/>
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/familier_boern.jpeg"/>
+    <meta property="og:description" content="Vikingeborgen Trelleborg er et museum der har stort fokus på vores gæster og på deres familiers oplevelse. Vi er derfor leveringsdygtige i lærerige, underholdende og familievenlige oplevelser!"/>
+
+    <!--Slut på meta -->
+
 		<link href="./css/familier-og-grupper.css" rel="stylesheet" type="text/css">
 
 	<?php include "./includes/dependencies.php"; ?>

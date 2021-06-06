@@ -3,13 +3,13 @@
 <head>
     <title>Rundvisninger</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Oversigt over de kommende events og arrangementer der vil være på Trelleborg">
-    <meta name="keywords" content="oplevelser, sommerferie, museum">
+    <meta name="description" content="Oversigt over de muligheder der er for at kunne få en rundvisnig på Trelleborg">
+    <meta name="keywords" content="museum, udflugt, oplevelse">
 
 
-    <meta property="og:title" content="Det sker på Trelleborg"/>
-    <meta property="og:image" content="https://astelun.dk/traelseborg/images/festival.jpg"/>
-    <meta property="og:description" content="Dette sker i sommeren hos Trelleborg"/>
+    <meta property="og:title" content="Det guidede Trelleborg"/>
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/rundtur.jpg"/>
+    <meta property="og:description" content="Få et guidet indblik i hvad Trelleborg har at byde på."/>
 
 
 
@@ -167,7 +167,7 @@
 
                 <div class="card article">
                     <div class="titledate">
-                        <h5 class="card-title">Rundvisning på udstillingsmuseet</h5>
+                        <h5 class="card-title">Rundvisning i Langhuset</h5>
                         <p class="article-details">Tirsdag - Søndag</p>
                     </div>
                     <img src="images/hus_front.png" class="card-img-top"" alt="Flames" alt="Card image cap">

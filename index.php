@@ -3,6 +3,20 @@
 
 <head>
     <title>Vikingeborgen Trelleborg</title>
+
+    <!--Meta tags etc. -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter">
+    <meta name="keywords" content="sommerferie, museum, familie">
+
+
+    <meta property="og:title" content="Vikingeborgen Trelleborg"/>
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/trelleborg.jpeg"/>
+    <meta property="og:description" content="Trelleborg er et vikingmuseum, under åben himmel. Der er plads til hele familien, i vores langhus, samt på toppen af vores velbevarede vikingeborg."/>
+
+    <!--Slut på meta -->
+
     <?php include "./includes/dependencies.php"; ?>
 </head>
 

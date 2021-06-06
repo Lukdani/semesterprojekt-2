@@ -4,6 +4,20 @@
 	<meta charset="utf-8">
 	
 	<title>Børnefødselsdag</title>
+
+    <!--Meta tags etc. -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Side om tilbuddet: børnefødselsdag, informationer og muligheder for at arrangere en fødselsdagsfest.">
+    <meta name="keywords" content="familie, museum, fødselsdag">
+
+
+    <meta property="og:title" content="Familien med på Trelleborg"/>
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/mini_vikinger.jpg"/>
+    <meta property="og:description" content="På Trelleborg er du mere end velkommen til at holde din fødselsdag. Der er mange gode muligheder for at få en rigtig god fødselsdag, blandt den mere end tusinde år gamle historie"/>
+
+    <!--Slut på meta -->
+
 		<link href="./css/familier-og-grupper.css" rel="stylesheet" type="text/css">
 
 	<?php include "./includes/dependencies.php"; ?>

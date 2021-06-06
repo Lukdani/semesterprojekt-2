@@ -2,6 +2,9 @@
 <html lang="da">
 <head>
     <title>Det sker</title>
+
+    <!--Meta tags etc. -->
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Oversigt over de kommende events og arrangementer der vil være på Trelleborg">
     <meta name="keywords" content="oplevelser, sommerferie, museum">
@@ -11,6 +14,7 @@
     <meta property="og:image" content="https://astelun.dk/traelseborg/images/festival.jpg"/>
     <meta property="og:description" content="Dette sker i sommeren hos Trelleborg"/>
 
+    <!--Slut på meta -->
 
 
     <link href="./css/det-sker.css" rel="stylesheet" type="text/css">

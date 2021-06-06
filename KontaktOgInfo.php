@@ -7,13 +7,25 @@
 
 	<title>Kontakt og info</title>
 
+    <!--Meta tags etc. -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kontaktinfo, samt andre vigtige informationer.">
+    <meta name="keywords" content="info, museum, kontakt">
+
+
+    <meta property="og:title" content="Kontakt og informationer - Trelleborg"/>
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/kontaktinfo.jpg"/>
+    <meta property="og:description" content="Kontaktinfo, samt andre vigtige informationer."/>
+
+    <!--Slut på meta -->
+
 	<meta name="robots" content="All">
 	<meta name="author" content="Udgiver">
 	<meta name="copyright" content="Information om copyright">
 
 	<link href="css/KontaktOgInfo.css" rel="stylesheet" type="text/css">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php include "./includes/dependencies.php"; ?>
 </head>
 
