@@ -131,8 +131,7 @@
     </div>
 
 
-    <div class="row contentBox-container activitiesBox overlay-container">
-        <div class="overlay bg-dark"></div>
+    <div class="row contentBox-container bg-light">
 
         <div class="col col-12 col-lg-4">
             <div class="card overlay-text">
@@ -185,17 +184,16 @@
         </div>
     </div>
 
-    <div class="row contentBox-container bg-primary ">
-        <h1 class="section-header mb-0 text-light">Skoler og institutioner</h1>
+    <div class="row contentBox-container bg-light">
+        <h1 class="section-header mb-0 text-primary">Skoler og institutioner</h1>
     </div>
 
 
-    <div class="row contentBox-container activitiesBox overlay-container">
-        <div class="overlay bg-dark"></div>
+    <div class="row contentBox-container bg-light">
         <div class="row">
-            <div class="col col-lg-7 col-12 textContainer textContainer overlay-text">
+            <div class="col col-lg-7 col-12 bg-background-color">
                 Vikingeborgen Trelleborg tilbyder mange spændende <a
-                    href="/familier-og-grupper.php">undervisningsforløb</a> tilpasset alle klassetrin.
+                    href="/familier-og-grupper.php" class="text-dark text-decoration-none" > <strong>undervisningsforløb</strong></a> tilpasset alle klassetrin.
                 <br></br>
                 Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset og strækker sig
                 fra rundvisninger, 1½ times forløb til hele dage og lejrskoler. Undervisningen inddrager eleverne og er
