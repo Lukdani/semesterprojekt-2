@@ -76,13 +76,13 @@ a{
 }
 
 .placeholder{
-	width: 300px;
-	height: 350px;
-	background-color: #0a58ca;
+	width: 400px;
+	height: 450px;
 }
 
 span {
 	display: inline-block;
 	vertical-align: middle;
 	line-height: normal;
+	align-self: flex-end;
 }
