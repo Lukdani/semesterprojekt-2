@@ -1,9 +1,9 @@
 @import "./bootstrap.scss";
 .footer {
   background-color: $custom-green-light;
-  color: white;
-  border-top: 2px solid $custom-red;
+  color: $light;
   padding: 2rem;
+  font-size: 1.1rem;  
 }
 
 .footer h2 {

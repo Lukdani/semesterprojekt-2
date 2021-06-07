@@ -65,13 +65,13 @@
                         <br>
                         Velbevaret vikingeborg
                     </h4>
-                    <p class="card-text">
-                        <span itemscope itemtype="https://schema.org/LandmarksOrHistoricalBuildings">
+                    <p itemscope itemtype="https://schema.org/LandmarksOrHistoricalBuildings" class="card-text">
+                        <span class="textSection" >
                             <span itemprop="name">Vikingeborgen Trelleborg</span> er <span itemprop="description"> en af
                                 de absolut bedst bevarede
                                 vikingeborge i verden.</span>
                         </span>
-                        <span>
+                        <span class="textSection">
 
                             Kom helt tæt på og udforsk vikingeborgen, som er opført på UNECO's liste.
                         </span>
@@ -88,13 +88,13 @@
                         <br>Kom på oplevelse
                     </h4>
                     <p class="card-text">
-                        <span>
+                        <span class="textSection">
                             Få <a href="familier_boern.php#">krigertræning</a> , tilbered et <a
                                 href="familier_boern.php#">vikingemåltid</a> over bål, overnat i <a
                                 href="familier-og-grupper.php">langhuset</a>, hold
                             <a href="foedselsdag.php">børnefødselsdag</a>.
                         </span>
-                        <span>
+                        <span class="textSection">
                             Skal du på oplevelse med familien, skolen eller andre, så har vi et velrettelagt forløb
                             fyldt med oplevelser<br>
                             <span>
@@ -114,9 +114,9 @@
                         Kom på rundvisning
                     </h4>
                     <p class="card-text">
-                        <span>Få en <a href="/rundvisninger.php">rundvisning</a> på Vikingeborgen Trelleborg af vores
+                        <span class="textSection">Få en <a href="/rundvisninger.php">rundvisning</a> på Vikingeborgen Trelleborg af vores
                             dygtige instruktører.</span>
-                        <span>Bliv vist rundt både ved ringborgen, i langhuset, i vores museumsudstillinger og meget
+                        <span class="textSection">Bliv vist rundt både ved ringborgen, i langhuset, i vores museumsudstillinger og meget
                             andet.</span>
                     </p>
                     <a href="#" class="btn btn-primary">Læs mere</a>
@@ -126,13 +126,8 @@
 
     </div>
 
-    <div class="row contentBox-container bg-light ">
-        <h1 class="section-header mb-0 text-primary">Aktiviteter denne sommer</h1>
-    </div>
-
-
     <div class="row contentBox-container bg-light">
-
+        <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
         <div class="col col-12 col-lg-4">
             <div class="card overlay-text">
 
@@ -184,26 +179,56 @@
         </div>
     </div>
 
-    <div class="row contentBox-container bg-light">
-        <h1 class="section-header mb-0 text-primary">Skoler og institutioner</h1>
-    </div>
+    <div class="row contentBox-container bg-primary">
 
-
-    <div class="row contentBox-container bg-light">
         <div class="row">
-            <div class="col col-lg-7 col-12 bg-background-color">
-                Vikingeborgen Trelleborg tilbyder mange spændende <a
-                    href="/familier-og-grupper.php" class="text-dark text-decoration-none" > <strong>undervisningsforløb</strong></a> tilpasset alle klassetrin.
-                <br></br>
-                Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset og strækker sig
-                fra rundvisninger, 1½ times forløb til hele dage og lejrskoler. Undervisningen inddrager eleverne og er
-                genstands- og dialogbaseret med fokus på et <strong>højt fagligt niveau</strong>,
-                <strong>bevægelse</strong> og <strong>praktisk håndværk</strong>.
-                <br></br>
-                <button class="btn btn-primary">Læs mere</button>
+            <div class="col col-lg-6 col-12">
+                <h1 class="section-header section-header--half text-light">Skoler og institutioner</h1>
+
+
+                <div class="card" style="height:unset">
+
+                    <img class="card-img-top" src="./images/trelleborg.jpeg" class="activity-card-image"
+                        alt="Card image cap">
+
+                    <div class="card-body">
+                        <h4 class="card-title">Undervisningsforløb</h4>
+                        <p class="card-text">
+                            Vikingeborgen Trelleborg tilbyder mange spændende <a href="/familier-og-grupper.php"
+                                class="text-dark text-decoration-none"> <strong>undervisningsforløb</strong></a>
+                            tilpasset alle
+                            klassetrin.
+                            <br></br>
+                            Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset
+                            og strækker
+                            sig
+                            fra rundvisninger, 1½ times forløb til hele dage og lejrskoler. Undervisningen inddrager
+                            eleverne og
+                            er
+                            genstands- og dialogbaseret med fokus på et <strong>højt fagligt niveau</strong>,
+                            <strong>bevægelse</strong> og <strong>praktisk håndværk</strong>.
+                            <br></br>
+
+
+                        </p>
+                        <a href="familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
+                    </div>
+
+                </div>
             </div>
-            <div class="col col-lg-5 col-12 overlay-text">
-                <img src="./images/trelleborg.jpeg" />
+            <div class="col col-lg-6 col-12 overlay-text">
+                <h1 class="section-header section-header--half  text-light">Se vores video</h1>
+                <div>
+
+                <div class="youTube-container">                
+                 <iframe  src="https://www.youtube.com/embed/q1mObF2eLvU"
+                        frameborder="0" allowfullscreen class="youTube-video"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                        </iframe>
+                        </div>
+                </div>
             </div>
         </div>
     </div>

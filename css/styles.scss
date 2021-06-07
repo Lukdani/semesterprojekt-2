@@ -49,7 +49,7 @@ img {
 
 .section-header {
   text-align: center;
-  // padding: 1rem 0;
+  padding-top: 1rem;
   width: 100%;
   margin: auto;
   margin-bottom: 2rem;
@@ -58,6 +58,12 @@ img {
   font-family: $header-font;
   line-height: 1;
   font-size: 3rem;
+}
+
+.section-header--half {
+  text-align: left !important;
+    font-size: 2.5rem;
+      margin-bottom: 1rem;
 }
 
 .activity-card-container {
@@ -335,6 +341,6 @@ img {
   border-radius: 0.25rem;
 }
 
-.card{
+.card {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
