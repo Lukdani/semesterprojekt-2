@@ -11,17 +11,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
 }
-
-ul, ol {
-    margin: 2px 10px 2px 10px;
-    padding: 0;
-    list-style-position: inside;
-}
-
-li {
-    margin: 0; /* Ingen ydre margen fra listpunkter */
-}
-
 p {
     margin: 0; /* Ingen ydre margen fra paragraffer */
     padding: 0; /* Ingen indre margen fra paragraffer */
@@ -31,27 +20,40 @@ p {
 img {
     display: block; /* Billeder er et element (laver linjeskift) */
     max-width: 100%; /* Bredde må maks fylde 100% */
-    height: auto; /* Højden skal tilpasse sig */
+    height: 400px; /* Højden skal tilpasse sig */
 }
 
 .grid{
 	display: flex;
 	flex-wrap: wrap;
-
+	padding: 3rem;
 }
+
 .title{
+	font-family: "Mate SC", serif;
 	margin-top: 10px;
-	font-size: 36px;
+	font-size: 1.5rem;
 	text-align: center;
 	width: 100%;
 }
-.indhold{
+
+.title-hov {
+	transform: skewY(8deg);
+	display:inline-block;
+		transition: all 1.2s ease-in;
+}
+
+.title-hov:hover {
+	transition: all 1.2s ease-in;
+	transform: skewY(38deg);
+}
+
+.indhold {
 	display: flex;
 	justify-content: center;
 	margin: auto;
 	width: 100%;
-	font-size: 60px;
-
+	margin-bottom: 1rem;
 }
 
 .nav{
@@ -62,7 +64,7 @@ img {
 }
 .button{
 	background-color: #6C7E2C;
-	padding: 20px 40px 20px 40px;
+	padding: 10px 20px;
 	font-size: 32px;
 	color: white;
 	margin: 20px;
@@ -78,12 +80,20 @@ a{
 
 .placeholder{
 	width: 400px;
-	height: 450px;
+	height: 400px;
 	margin-right: 20px;
 }
 
 .error{
 	margin: auto;
-	font-size: 32px;
+	font-size: 1rem;
 	margin-bottom: 10px;
+		font-family: Roboto, sans-serif;
+			color: #b54b37;
+}
+
+.error-code {
+	font-family: "Mate SC", serif;
+	font-size: 2rem;
+
 }
