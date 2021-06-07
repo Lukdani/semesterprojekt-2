@@ -207,9 +207,6 @@
                             er
                             genstands- og dialogbaseret med fokus på et <strong>højt fagligt niveau</strong>,
                             <strong>bevægelse</strong> og <strong>praktisk håndværk</strong>.
-                            <br></br>
-
-
                         </p>
                         <a href="familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
                     </div>
