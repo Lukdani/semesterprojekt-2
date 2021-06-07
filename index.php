@@ -7,13 +7,15 @@
     <!--Meta tags etc. -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter">
+    <meta name="description"
+        content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter">
     <meta name="keywords" content="sommerferie, museum, familie">
 
 
-    <meta property="og:title" content="Vikingeborgen Trelleborg"/>
-    <meta property="og:image" content="https://astelun.dk/traelseborg/images/trelleborg.jpeg"/>
-    <meta property="og:description" content="Trelleborg er et vikingmuseum, under åben himmel. Der er plads til hele familien, i vores langhus, samt på toppen af vores velbevarede vikingeborg."/>
+    <meta property="og:title" content="Vikingeborgen Trelleborg" />
+    <meta property="og:image" content="https://astelun.dk/traelseborg/images/trelleborg.jpeg" />
+    <meta property="og:description"
+        content="Trelleborg er et vikingmuseum, under åben himmel. Der er plads til hele familien, i vores langhus, samt på toppen af vores velbevarede vikingeborg." />
 
     <!--Slut på meta -->
 
@@ -24,9 +26,18 @@
     <?php include "./includes/header.php";?>
     <header>
         <div class="overlay"></div>
-        <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-            <source src="./videos/trelleborg_hero.mp4" type="video/mp4">
-        </video>
+
+        <span class="videoMobile">
+            <video class="videoMobile" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="./videos/trelleborg_hero.mp4" type="video/mp4">
+            </video>
+        </span>
+        <span class="videoDesktop">
+            <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="./videos/trelleborg_hero_desktop.mp4" type="video/mp4">
+            </video>
+        </span>
+
         <div class="container h-100">
             <div class="heroText-container">
                 <div class="heroText">
@@ -55,8 +66,10 @@
                         Velbevaret vikingeborg
                     </h4>
                     <p class="card-text">
-                        <span>
-                            Trelleborg er en af de absolut bedst bevarede vikingeborge i verden.
+                        <span itemscope itemtype="https://schema.org/LandmarksOrHistoricalBuildings">
+                            <span itemprop="name">Vikingeborgen Trelleborg</span> er <span itemprop="description"> en af
+                                de absolut bedst bevarede
+                                vikingeborge i verden.</span>
                         </span>
                         <span>
 
@@ -126,25 +139,29 @@
 
                 <img class="card-img-top" src="./images/rundtur.jpg" class="activity-card-image" alt="Card image cap">
                 <div class="card-body">
-                    <h4 class="card-title">Rundvisning</h4>
-                    <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
-                    <p class="card-text">Få en rundvisning på Vikingeborgen Trelleborg. I bliver vist rundt både ved
-                        ringborgen, i langhuset, og i vores museumsudstillinger.</p>
-                    <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
+                    <span itemscope itemtype="https://schema.org/Event">
+                        <h4 itemprop="about" class="card-title">Rundvisning</h4>
+                        <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
+                        <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen Trelleborg.
+                                I bliver vist rundt både ved
+                                ringborgen, i langhuset, og i vores museumsudstillinger.</span></p>
+                        <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
+                    </span>
                 </div>
             </div>
         </div>
-
-
-
         <div class=" col col-12 col-lg-4">
             <div class="card overlay-text">
                 <img class="card-img-top" src="./images/dyr.JPG" class="activity-card-image" alt="dyr">
                 <div class="card-body">
-                    <h4 class="card-title">Vikingesommer</h4>
-                    <h5 class="card-subtitle mb-2 text-muted">27/06 - 15/08</h5>
-                    <p class="card-text">Sommeren står for døren, og der er masser af planlagte aktiviteter.</p>
-                    <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
+                    <span itemscope itemtype="https://schema.org/Event">
+                        <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
+                        <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
+                                itemProp="endDate">15/08</span></h5>
+                        <p itemprop="description" class="card-text">Sommeren står for døren, og der er masser af
+                            planlagte aktiviteter.</p>
+                        <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
+                    </span>
                 </div>
             </div>
         </div>

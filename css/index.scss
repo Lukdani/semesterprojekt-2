@@ -1,5 +1,18 @@
 @import "./bootstrap.scss";
 
+.videoDesktop {
+  display: none;
+  @media screen and (min-width: 992px) {
+    display: unset;
+  }
+}
+
+.videoMobile {
+  @media screen and (min-width: 992px) {
+    display: none;
+  }
+}
+
 .contentBox-container {
   margin: 0 !important;
   background-size: cover;
@@ -52,9 +65,12 @@
 header {
   position: relative;
   background-color: black;
-  height: 30rem;
+  height: 45rem;
   width: 100%;
   overflow: hidden;
+  @media screen and (min-width: 992px) {
+    height: 30rem;
+  }
 }
 
 header video {
