@@ -78,7 +78,7 @@
                         <tbody>
                             <tr>
                                 <td>Pris:</td>
-                                <td>2.000 kr.</td>
+                                <td>1.200 kr.</td>
                             </tr>
                             <tr>
                                 <td>Varighed:</td>

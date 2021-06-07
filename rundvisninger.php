@@ -71,9 +71,9 @@
                         <br>
                         <ul>
                             <strong>Priser:</strong>
-                            <li>100,- pr. person</li>
+                            <li>80,- pr. person</li>
                             <br>
-                            <li>80,- for seniorer</li>
+                            <li>50,- for seniorer</li>
                             <br>
                             <li>50,- for studerende</li>
                             <br>
@@ -110,7 +110,7 @@
                         <br>
                         <ul>
                             <strong>Priser:</strong>
-                            <li>150,- pr. person</li>
+                            <li>100,- pr. person</li>
                         </ul>
                         <br>
                         <a href="fejl404.html" class="btn btn-primary">Meld jer til</a>
