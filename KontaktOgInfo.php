@@ -315,13 +315,13 @@
                                 <img src="./images/kontakt/1.jpeg" class="card-img-top"
                                     alt="Anne-Christine Frank Larsen">
                                 <div class="card-body">
-                                    <h5 class="card-title">Linda Wittchen/h5>
-                                        <h6 class="card-subtitle mb-2 text-muted">Museumschef og leder af Trelleborg
-                                        </h6>
-                                        <p class="card-text">
-                                            linda.wittchen@natmus.dk
-                                        </p>
-                                        <a href="#" class="btn btn-primary">Send e-mail</a>
+                                    <h5 class="card-title">Linda Wittchen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Museumschef og leder af Trelleborg
+                                    </h6>
+                                    <p class="card-text">
+                                        linda.wittchen@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
                                 </div>
                             </div>
                         </div>
