@@ -27,11 +27,12 @@
 
 <body>
     <?php include "./includes/header.php";?>
-
+ 
     <div class="hero-section familier-og-grupper-hero overlay-container">
         <div class="overlay bg-secondary"></div>
         <div class="row overlay-text">
             <div class="col col-12">
+
                 <h1 class="overlay-text hero-header">
                     Familier og grupper
                 </h1>
@@ -39,17 +40,26 @@
                     Vikingeborgen Trelleborg har lærerige og underholdende forløb for <br> familien, seniorer,
                     foreninger eller andre grupper.
                 </p>
+         
             </div>
         </div>
     </div>
     <div class="section">
+    <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Forside</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Familier og grupper</li>
+            </ol>
+        </nav>
         <div class="family-card-container">
             <a class="link-card" href="./familier_boern.php">
                 <div class="family-card family-card-children overlay-container">
                     <div class="overlay bg-secondary"></div>
+                    <div class="overlay-text">
                     <h3>Familier og børn</h3>
                     <p class="overlay-description">Vi har tilrettelagte forløb for familien, hvad enten det gælder
                         børnefødselsdag, bålmad, spydkast eller andet.</p>
+                        </div>
             </a>
         </div>
         <div class="family-card family-card-seniors overlay-container">

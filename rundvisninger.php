@@ -42,6 +42,12 @@
 <div class="container-fluid bg-background-color">
     <br>
     <div class="container">
+    <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Forside</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Rundvisninger</li>
+            </ol>
+        </nav>
         <h3 class="pageHeader">Rundvisningsmuligheder</h3>
         <br>
         <div class="row gy-5 gx-5">

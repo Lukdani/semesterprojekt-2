@@ -145,13 +145,20 @@ img {
 }
 
 .overlay-container:hover .overlay-description {
+
+
+     @media screen and (min-width: 992px) {
   visibility: visible;
   transition: visibility 0.1s ease-in;
+  }
 }
 
 .overlay-description {
   z-index: 10;
+
+      @media screen and (min-width: 992px) {
   visibility: hidden;
+  }
 }
 
 .hero-carousel img {
@@ -230,8 +237,10 @@ img {
 
 .link-card {
   width: 100%;
-  height: auto;
+  height: 100%;
   max-height: unset;
+  display: flex;
+  align-items:center;
 }
 
 .link-card,

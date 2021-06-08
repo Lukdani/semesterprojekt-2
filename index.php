@@ -129,7 +129,7 @@
     <div class="row contentBox-container bg-light">
         <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
         <div class="col col-12 col-lg-4">
-            <div class="card overlay-text">
+            <div class="card">
 
                 <img class="card-img-top" src="./images/rundtur.jpg" class="activity-card-image" alt="Card image cap">
                 <div class="card-body">
@@ -145,7 +145,7 @@
             </div>
         </div>
         <div class=" col col-12 col-lg-4">
-            <div class="card overlay-text">
+            <div class="card">
                 <img class="card-img-top" src="./images/dyr.JPG" class="activity-card-image" alt="dyr">
                 <div class="card-body">
                     <span itemscope itemtype="https://schema.org/Event">
@@ -161,7 +161,7 @@
         </div>
 
         <div class=" col col-12 col-lg-4">
-            <div class="card overlay-text">
+            <div class="card">
 
                 <img class="card-img-top" src="./images/mini_vikinger.jpg" class="activity-card-image"
                     alt="Card image cap">
@@ -213,7 +213,7 @@
 
                 </div>
             </div>
-            <div class="col col-lg-6 col-12 overlay-text">
+            <div class="col col-lg-6 col-12">
                 <h1 class="section-header section-header--half  text-light">Se vores video</h1>
                 <div>
 
