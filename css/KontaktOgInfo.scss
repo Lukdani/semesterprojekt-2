@@ -17,3 +17,35 @@ p {
 .card-body ul li {
   list-style-position: outside !important;
 }
+
+.covidInfo {
+  background-color: $warning;
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+.kontaktGrid {
+  padding-bottom: 2rem;
+}
+
+.kontaktGrid-row:not(:first-of-type) {
+  padding-top: 2rem;
+}
+.kontaktGrid h4 {
+  font-family: $header-font;
+  font-size: 1.8rem;
+}
+
+.kontaktGrid .card {
+  height: 100%;
+}
+
+.kontaktGrid .card-body {
+  background-color: $custom-background-color;
+}
+
+.praktiskInfo-subheader {
+  font-family: $header-font;
+  font-size: 1.4rem;
+  font-weight: 600;
+}

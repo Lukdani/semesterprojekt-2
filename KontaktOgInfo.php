@@ -31,11 +31,12 @@
 
 <body>
     <?php include "./includes/header.php";?>
-    <!-- PANIK HER! -->
+
+    <!--     
     <div class="hero-section KONTAKT overlay-container">
 
 
-        <!-- HVORDAN SÆTTER MAN BILLEDE IND HER?! billede: kontaktinfo -->
+
 
 
         <div class="overlay bg-secondary"></div>
@@ -49,173 +50,367 @@
                     Her finder du praktisk information vedrørende dit besøg på Trelleborg</p>
             </div>
         </div>
-    </div>
+    </div> -->
+
+    <div class="row contentBox-container featuresBox overlay-container">
+        <div class="overlay bg-dark"></div>
+        <nav aria-label="breadcrumb ">
+            <ol class="breadcrumb overlay-text">
+                <li class="breadcrumb-item overlay-text"><a class=" text-white" href=" /">Forside</a></li>
+                <li class="breadcrumb-item active text-background-color overlay-text" aria-current="page">Kontakt og
+                    info</li>
+            </ol>
+        </nav>
+        <div class="row mb-4" style="text-align: left;">
+            <h4 class="section-header overlay-text">Praktisk information</h4>
+
+            <div class="col col-12">
+
+                <div class="card overlay-text left-align">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col col-12 col-lg-6 pratiskInfo">
 
 
-    <div class="container-fluid bg-background-color">
-        <br>
-        <div class="container">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/">Forside</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Kontakt og info</li>
-                </ol>
-            </nav>
-            <div class="row gy-5 gx-5">
+                                <h5 class="praktiskInfo-subheader">Åbningstider og entrepris</h5>
+                                <p>
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <td>Mandag:</td>
+                                            <td>Lukket</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tirsdag:</td>
+                                            <td>10-17</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Onsdag:</td>
+                                            <td>10-17</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Torsdag:</td>
+                                            <td>10-17</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Fredag:</td>
+                                            <td>10-17</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Weekend:</td>
+                                            <td>10-17</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                                <p>Fri entre - mulighed for køb af <a href="rundvisninger.php"
+                                        class="text-dark text-decoration-none"><strong>rundvisning</strong></a>
+                                    m.v.</p>
+                                </p>
+
+                                <h5 class="praktiskInfo-subheader">Informationer vedrørende besøg</h5>
+
+                                <ul>
+                                    <li>Efter museets lukketid, er der <strong>fri adgang</strong> til
+                                        Trelleborgs område, gennem
+                                        lågen til venstre for museets indgang.</li>
+
+                                    <li>Efter museets lukketid, vil alle bygninger være aflåst.</li>
+
+                                    <li>Det er ikke tilladt at <strong>klatre</strong> på museets bygninger.
+                                    </li>
+
+                                    <li>Det er ikke tilladt at fodre, jage eller på anden måde stresse
+                                        fårene.
+                                    </li>
+
+                                    <li><strong>Hunde er velkomne</strong>, blot de holdes i snor og deres
+                                        efterladenskaber
+                                        fjernes.
+                                    </li>
+
+                                    <li>Museets parkeringsplads og museets område er videoovervåget.</li>
+
+                                    <li>Al slags <strong>rygning</strong> er ikke tilladt på Trelleborg.
+                                    </li>
+
+                                    <li>Overnatning på museets P-plads er ikke tilladt.</li>
+                                </ul>
 
 
-                <div class="col col-12">
-
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col col-12 col-lg-6">
-
-
-                                    <div>
-                                        <h4>Praktisk information</h4>
-                                        <p class="article-details"><strong>Informationer vedrørende besøg på
-                                                Trelleborg:</strong></p>
-
-
-
-
-                                        <p class="card-text">
-                                        <ul>
-                                            <li>Efter museets lukketid, er der fri adgang til Trelleborgs område, gennem
-                                                lågen til venstre for museets indgang.</li>
-
-                                            <li>Efter museets lukketid, vil alle bygninger være aflåst.</li>
-
-                                            <li>Det er ikke tilladt at klatre på museets bygninger.</li>
-
-                                            <li>Det er ikke tilladt at fodre, jage eller på anden måde stresse fårene.
-                                            </li>
-
-                                            <li>Hunde er velkomne, blot de holdes i snor og deres efterladenskaber
-                                                fjernes.
-                                            </li>
-
-                                            <li>Museets parkeringsplads og museets område er video overvåget.</li>
-
-                                            <li>Al slags rygning, er ikke tilladt på Trelleborg.</li>
-
-                                            <li>Overnatning på museets P-plads er ikke tilladt.</li>
-                                        </ul>
+                            </div>
+                            <div class="col col-12 col-lg-6">
+                                <div class="row">
+                                    <div class="col">
                                     </div>
                                 </div>
-                                <div class="col col-12 col-lg-6">
-                                    <!--Det her billede vil jeg have til at være på samme linje med understående info -->
-                                    <img style="float: right" src="images/CoViking.jpg"
-                                        alt="Viking med maske og hjelm " />
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="covidInfo">
+                                            <div class="row">
+                                                <h4>Trelleborg og COVID-19</h4>
+                                                <div class="col col-12 col-lg-7">
+                                                    <p><strong>Museet følger regeringens anbefalinger
+                                                            forbindelse med Corona-krisen</strong></p>
+                                                    <p>Husk mundbind, hold afstand til andre gæster og sprit
+                                                        hænder.
+                                                    </p>
+                                                    <p>I museets åbningstid, skal du kunne fremvise Coronapas,
+                                                        eller
+                                                        negativ
+                                                        Coronatest som er indenfor 72 timer, samt gyldigt ID.
+                                                        Børn
+                                                        under 14
+                                                        år
+                                                        er fritaget.</p>
+                                                </div>
 
+                                                <div class="col col-12 col-lg-5">
+                                                    <img src="images/CoViking.jpg" alt="Viking med maske og hjelm"
+                                                        style="margin:auto;" />
+                                                </div>
+
+
+                                            </div>
+
+
+
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="Kontaktboks">
-                                <div>
-                                    <h4>Trelleborg og COVID-19</h4>
-                                    <p class="article-details"><strong>Museet følger regeringens anbefalinger
-                                            forbindelse med Corona-krisen</strong></p>
-                                    <p>Husk mundbind, hold afstand til andre gæster og sprit hænder.</p>
-                                    <p>I museets åbningstid, skal du kunne fremvise Coronapas, eller negativ
-                                        Coronatest som er indenfor 72 timer, samt gyldigt ID. Børn under 14 år
-                                        er fritaget.</p>
-                                </div>
-
-                            </div>
-                            <div class="row p-16">
-
-                            </div>
-
-
-                            <h4>Kontakt</h4>
-
-                            <!--Kontakt start -->
-
-                            <!-- <style>
-                            * {
-                                box-sizing: border-box;
-                            }
-
-                            .row {
-                                display: flex;
-                            }
-
-                            .column {
-                                flex: 50%;
-                                padding: 10px;
-                            }
-						</style> -->
-
-
-
-                            <div class="row">
-                                <div class="col col-12 col-lg-6">
-                                    <p class="article-details"><strong>Officielle henvendelser</strong></p>
-                                    <p>Anne-Christine Frank Larsen</p>
-                                    <p>Museumschef og leder af Trelleborg</p>
-                                    <p>41 20 63 90</p>
-                                    <p>anne-christine.larsen@natmus.dk eller acl@natmus.dk</p>
-                                    <br>
-                                    <p class="article-details"><strong>Presse og Markedsføring</strong></p>
-                                    <p>Anne-Christine Frank Larsen</p>
-                                    <p>Museumschef og leder af Trelleborg</p>
-                                    <p>41 20 63 90</p>
-                                    <p>anne-christine.larsen@natmus.dk eller acl@natmus.dk</p>
-                                    <br>
-                                    <p class="article-details"><strong>Kontakt ved booking</strong></p>
-                                    <p>41 20 63 93</p>
-                                    <p>trelleborg-booking@natmus.dk</p>
-                                    <p> Forvent venligst en svartid på op til en uge på mail henvendelser.</p>
-                                    <br>
-                                    <p class="article-details"><strong>Kontor</strong></p>
-                                    <p>Linda Wittchen</p>
-                                    <p>linda.wittchen@natmus.dk</p>
-                                    <br>
-                                    <p class="article-details"><strong>Udehold/Servicemedarbejder</strong></p>
-                                    <p>Kim Hoffmann-Madsen</p>
-                                    <p>kih@natmus.dk</p>
-                                </div>
-                                <div class="col col-12 col-lg-6">
-                                    <p class="article-details"><strong>Formidling</strong></p>
-                                    <p> Anne Knabe Sørensen</p>
-                                    <p>Museumsinspektør</p>
-                                    <p>41 20 63 91</p>
-                                    <p>aks@natmus.dk</p>
-                                    <br>
-                                    <p>Jonas S. Christiansen</p>
-                                    <p>Museumsformidler</p>
-                                    <p>jcr@natmus.dk</p>
-                                    <br>
-                                    <p class="article-details"><strong>Museumsbutik</strong></p>
-                                    <p> Judith Winther Olsen</p>
-                                    <p> Museumsvært</p>
-                                    <br>
-                                    <p>Heidi Buchholz Nielsen</p>
-                                    <p> Museumsvært</p>
-                                    <br>
-                                    <p> 41 20 63 99</p>
-                                    <p>butik-trelleborg@natmus.dk</p>
-                                </div>
-                            </div>
-
-                        </div>
-
-
                     </div>
-
-
                 </div>
             </div>
         </div>
     </div>
+
+    <div class="row bg-light">
+        <h1 class="section-header text-primary pt-5">Kontakt</h1>
     </div>
+    <div class="bg-light">
+        <div class="container kontaktGrid bg-light">
+            <div class="row kontaktGrid-row">
+                <div class="col col-12 col-lg-6">
+                    <h4>Officielle henv. og presse/markedsføring</h4>
+                    <div class="row">
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Anne-Christine Frank Larsen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Museumschef og leder af Trelleborg</h6>
+                                    <p class="card-text">
+                                        41 20 63 90<br>
+                                        anne-christine.larsen@natmus.dk eller acl@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col col-12 col-lg-6">
+                    <h4>Formidling</h4>
+                    <div class="row">
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Anne Knabe Sørensen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Museumsinspektør</h6>
+                                    <p class="card-text">
+                                        41 20 63 91<br>
+                                        aks@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Jonas S. Christiansen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Museumsformidler</h6>
+                                    <p class="card-text">
+                                        jcr@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row kontaktGrid-row">
+                <div class="col col-12 col-lg-6">
+                    <h4>Kontakt ved booking</h4>
+                    <div class="row">
+
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+
+                                    <p class="card-text">
+                                        41 20 63 93<br>
+                                        trelleborg-booking@natmus.dk
+                                        <br>
+                                        <br>
+                                        <i>Forvent venligst en svartid på op til en uge på mail henvendelser.</i>
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-6">
+                    <h4>Museumsbutik</h4>
+                    <div class="row">
+
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Judith Winther Olsen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Museumsvært</h6>
+                                    <p class="card-text">
+                                        41 20 63 99<br>
+                                        butik-trelleborg@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Heidi Buchholz Nielsen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Museumsvært</h6>
+                                    <p class="card-text">
+                                        41 20 63 99<br>
+                                        butik-trelleborg@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row kontaktGrid-row">
+                <div class="col col-12 col-lg-6">
+                    <h4>Kontor</h4>
+                    <div class="row">
+
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                    alt="Anne-Christine Frank Larsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Linda Wittchen/h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">Museumschef og leder af Trelleborg
+                                        </h6>
+                                        <p class="card-text">
+                                            linda.wittchen@natmus.dk
+                                        </p>
+                                        <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-6">
+                    <div class="row">
+                        <h4>Udehold/service</h4>
+                        <div class="col col-12 col-lg-6">
+                            <div class="card">
+                                <img src="./images/kontakt/1.jpeg" class="card-img-top" alt="Kim Hoffmann-Madsen">
+                                <div class="card-body">
+                                    <h5 class="card-title">Kim Hoffmann-Madsen</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Servicemedarbejder</h6>
+                                    <p class="card-text">
+                                        kih@natmus.dk
+                                    </p>
+                                    <a href="#" class="btn btn-primary">Send e-mail</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- <div class="row">
+            <div class="col col-12 col-lg-6">
+                <p class="article-details"><strong>Officielle henvendelser</strong></p>
+                <p>Anne-Christine Frank Larsen</p>
+                <p>Museumschef og leder af Trelleborg</p>
+                <p>41 20 63 90</p>
+                <p>anne-christine.larsen@natmus.dk eller acl@natmus.dk</p>
+                <br>
+                <p class="article-details"><strong>Presse og Markedsføring</strong></p>
+                <p>Anne-Christine Frank Larsen</p>
+                <p>Museumschef og leder af Trelleborg</p>
+                <p>41 20 63 90</p>
+                <p>anne-christine.larsen@natmus.dk eller acl@natmus.dk</p>
+                <br>
+                <p class="article-details"><strong>Kontakt ved booking</strong></p>
+                <p>41 20 63 93</p>
+                <p>trelleborg-booking@natmus.dk</p>
+                <p> Forvent venligst en svartid på op til en uge på mail henvendelser.</p>
+                <br>
+                <p class="article-details"><strong>Kontor</strong></p>
+                <p>Linda Wittchen</p>
+                <p>linda.wittchen@natmus.dk</p>
+                <br>
+                <p class="article-details"><strong>Udehold/Servicemedarbejder</strong></p>
+                <p>Kim Hoffmann-Madsen</p>
+                <p>kih@natmus.dk</p>
+            </div>
+            <div class="col col-12 col-lg-6">
+                <p class="article-details"><strong>Formidling</strong></p>
+                <p> Anne Knabe Sørensen</p>
+                <p>Museumsinspektør</p>
+                <p>41 20 63 91</p>
+                <p>aks@natmus.dk</p>
+                <br>
+                <p>Jonas S. Christiansen</p>
+                <p>Museumsformidler</p>
+                <p>jcr@natmus.dk</p>
+                <br>
+                <p class="article-details"><strong>Museumsbutik</strong></p>
+                <p> Judith Winther Olsen</p>
+                <p> Museumsvært</p>
+                <br>
+                <p>Heidi Buchholz Nielsen</p>
+                <p> Museumsvært</p>
+                <br>
+                <p> 41 20 63 99</p>
+                <p>butik-trelleborg@natmus.dk</p>
+            </div>
+        </div> -->
+
+
+
     <?php include "./includes/footer.php";?>
-    <script>
-    console.log("test 2")
-    </script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
         integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous">
     </script>
