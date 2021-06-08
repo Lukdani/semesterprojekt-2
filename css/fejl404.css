@@ -1,99 +1,102 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-
 
 body {
-    margin: 0;
+  margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    padding: 0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
 }
 p {
-    margin: 0; /* Ingen ydre margen fra paragraffer */
-    padding: 0; /* Ingen indre margen fra paragraffer */
+  margin: 0; /* Ingen ydre margen fra paragraffer */
+  padding: 0; /* Ingen indre margen fra paragraffer */
 }
 
 /* Sikrer billeder er responsive */
 img {
-    display: block; /* Billeder er et element (laver linjeskift) */
-    max-width: 100%; /* Bredde må maks fylde 100% */
-    height: 400px; /* Højden skal tilpasse sig */
+  display: block; /* Billeder er et element (laver linjeskift) */
+  max-width: 100%; /* Bredde må maks fylde 100% */
+  height: 400px; /* Højden skal tilpasse sig */
 }
 
-.grid{
-	display: flex;
-	flex-wrap: wrap;
-	padding: 3rem;
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 3rem;
 }
 
-.title{
-	font-family: "Mate SC", serif;
-	margin-top: 10px;
-	font-size: 1.5rem;
-	text-align: center;
-	width: 100%;
+.title {
+  font-family: "Philosopher", serif;
+  margin-top: 10px;
+  font-size: 1.5rem;
+  text-align: center;
+  width: 100%;
 }
 
 .title-hov {
-	transform: skewY(8deg);
-	display:inline-block;
-		transition: all 1.2s ease-in;
+  transform: skewY(8deg);
+  display: inline-block;
+  transition: all 1.2s ease-in;
 }
 
 .title-hov:hover {
-	transition: all 1.2s ease-in;
-	transform: skewY(38deg);
+  transition: all 1.2s ease-in;
+  transform: skewY(38deg);
 }
 
 .indhold {
-	display: flex;
-	justify-content: center;
-	margin: auto;
-	width: 100%;
-	margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
-.nav{
-	display: flex;
-	justify-content: center;
-	margin: auto;
-	width: 100%;
+.nav {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
 }
-.button{
-	background-color: #6C7E2C;
-	padding: 10px 20px;
-	font-size: 32px;
-	color: white;
-	margin: 20px;
-	transition-duration: 0.4s;
-	cursor: pointer;
-	border-radius: 4px;
-	border: none;
+.button {
+  background-color: #6c7e2c;
+  padding: 10px 20px;
+  font-size: 32px;
+  color: white;
+  margin: 20px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
 }
-a{
-	color: white;
-	text-decoration: inherit;
-}
-
-.placeholder{
-	width: 400px;
-	height: 400px;
-	margin-right: 20px;
+a {
+  color: white;
+  text-decoration: inherit;
 }
 
-.error{
-	margin: auto;
-	font-size: 1rem;
-	margin-bottom: 10px;
-		font-family: Roboto, sans-serif;
-			color: #b54b37;
+.placeholder {
+  width: 400px;
+  height: 400px;
+  margin-right: 20px;
+}
+
+.error {
+  margin: auto;
+  font-size: 1rem;
+  margin-bottom: 10px;
+  font-family: Roboto, sans-serif;
+  color: #b54b37;
 }
 
 .error-code {
-	font-family: "Mate SC", serif;
-	font-size: 2rem;
-
+  font-family: "Philosopher", serif;
+  font-size: 2rem;
 }

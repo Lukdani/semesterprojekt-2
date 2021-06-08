@@ -1,0 +1,19 @@
+@import "./bootstrap.scss";
+
+ul,
+ol {
+  margin: 2px 10px 2px 10px;
+  padding: 0;
+}
+
+p {
+  margin: 0px;
+}
+
+.KONTAKT {
+  background-image: url("../images/kontaktinfo.jpg");
+}
+
+.card-body ul li {
+  list-style-position: outside !important;
+}

@@ -43,11 +43,12 @@
         <div class="row">
             <div class="col col-12">
 
-                <h1 class="section-header">
+                <h1 class="section-header section-header--half text-primary">
                     Børnefødselsdag
                 </h1>
             </div>
             <div class="col col-12 col-lg-8">
+            
 
                 <img src="./images/foedselsdag.jpeg" alt="">
                 <div class="mt-3 mb-3 p-3 bg-white foedselsdag-info">

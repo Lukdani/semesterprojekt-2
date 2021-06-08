@@ -40,7 +40,6 @@
             </ol>
         </nav>
         <div class="family-card-container">
-
             <div class=" card-25">
                 <div class="card">
                     <img class="card-img-top" src="./images/rundvisning.jpeg" class="activity-card-image"

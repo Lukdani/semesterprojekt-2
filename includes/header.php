@@ -1,7 +1,7 @@
 <div class="">
     <nav class="navbar navbar-expand-lg fixed-top">
         <a class="navbar-brand" href="index.php">
-            <img src="./images/logo.png" />
+            <img src="./images/logo_2.png" />
         </a>
         <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
