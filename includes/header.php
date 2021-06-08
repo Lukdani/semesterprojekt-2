@@ -1,7 +1,7 @@
 <div class="">
     <nav class="navbar navbar-expand-lg fixed-top">
         <a class="navbar-brand" href="index.php">
-            <img src="./images/logo_2.png" />
+            <img src="./images/logo_2.png" alt="logo"/>
         </a>
         <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -44,14 +44,14 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="" class="nav-link">
+                    <a href="fejl404.html" class="nav-link">
                         <i class="fas fa-globe text-green-light"></i>
                         EN
                     </a>
                 </li>
 
             </ul>
-            <a href="" class="">
+            <a href="fejl404.html" class="">
                 <button class="btn btn-primary">
                     Booking
                 </button>
