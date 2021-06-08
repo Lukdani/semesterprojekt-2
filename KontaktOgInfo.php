@@ -63,125 +63,119 @@
         </nav>
         <div class="row mb-4" style="text-align: left;">
             <h4 class="section-header overlay-text">Praktisk information</h4>
-
-            <div class="col col-12">
-
-                <div class="card overlay-text left-align">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col col-12 col-lg-6 pratiskInfo">
+            <div class="row">
 
 
-                                <h5 class="praktiskInfo-subheader">Åbningstider og entrepris</h5>
-                                <p>
-                                <table>
-                                    <tbody>
-                                        <tr>
-                                            <td>Mandag:</td>
-                                            <td>Lukket</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Tirsdag:</td>
-                                            <td>10-17</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Onsdag:</td>
-                                            <td>10-17</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Torsdag:</td>
-                                            <td>10-17</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Fredag:</td>
-                                            <td>10-17</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Weekend:</td>
-                                            <td>10-17</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                <div class="col col-12 col-lg-7 pratiskInfo">
+                    <div class="card overlay-text left-align">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col col-12 col-lg-7 ">
+                                    <h5 class="praktiskInfo-subheader">Åbningstider og entrepris</h5>
+                                    <p>
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td>Mandag:</td>
+                                                <td>Lukket</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Tirsdag:</td>
+                                                <td>10-17</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Onsdag:</td>
+                                                <td>10-17</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Torsdag:</td>
+                                                <td>10-17</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Fredag:</td>
+                                                <td>10-17</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Weekend:</td>
+                                                <td>10-17</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
 
-                                <p>Fri entre - mulighed for køb af <a href="rundvisninger.php"
-                                        class="text-dark text-decoration-none"><strong>rundvisning</strong></a>
-                                    m.v.</p>
-                                </p>
+                                    <p>Fri entre - mulighed for køb af <a href="rundvisninger.php"
+                                            class="text-dark text-decoration-none"><strong>rundvisning</strong></a>
+                                        m.v.</p>
+                                    </p>
 
-                                <h5 class="praktiskInfo-subheader">Informationer vedrørende besøg</h5>
+                                    <h5 class="praktiskInfo-subheader">Informationer vedrørende besøg</h5>
 
-                                <ul>
-                                    <li>Efter museets lukketid, er der <strong>fri adgang</strong> til
-                                        Trelleborgs område, gennem
-                                        lågen til venstre for museets indgang.</li>
+                                    <ul>
+                                        <li>Efter museets lukketid, er der <strong>fri adgang</strong> til
+                                            Trelleborgs område, gennem
+                                            lågen til venstre for museets indgang.</li>
 
-                                    <li>Efter museets lukketid, vil alle bygninger være aflåst.</li>
+                                        <li>Efter museets lukketid, vil alle bygninger være aflåst.</li>
 
-                                    <li>Det er ikke tilladt at <strong>klatre</strong> på museets bygninger.
-                                    </li>
+                                        <li>Det er ikke tilladt at <strong>klatre</strong> på museets bygninger.
+                                        </li>
 
-                                    <li>Det er ikke tilladt at fodre, jage eller på anden måde stresse
-                                        fårene.
-                                    </li>
+                                        <li>Det er ikke tilladt at fodre, jage eller på anden måde stresse
+                                            fårene.
+                                        </li>
 
-                                    <li><strong>Hunde er velkomne</strong>, blot de holdes i snor og deres
-                                        efterladenskaber
-                                        fjernes.
-                                    </li>
+                                        <li><strong>Hunde er velkomne</strong>, blot de holdes i snor og deres
+                                            efterladenskaber
+                                            fjernes.
+                                        </li>
 
-                                    <li>Museets parkeringsplads og museets område er videoovervåget.</li>
+                                        <li>Museets parkeringsplads og museets område er videoovervåget.</li>
 
-                                    <li>Al slags <strong>rygning</strong> er ikke tilladt på Trelleborg.
-                                    </li>
+                                        <li>Al slags <strong>rygning</strong> er ikke tilladt på Trelleborg.
+                                        </li>
 
-                                    <li>Overnatning på museets P-plads er ikke tilladt.</li>
-                                </ul>
-
-
-                            </div>
-                            <div class="col col-12 col-lg-6">
-                                <div class="row">
-                                    <div class="col">
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col">
-                                        <div class="covidInfo">
-                                            <div class="row">
-                                                <h4>Trelleborg og COVID-19</h4>
-                                                <div class="col col-12 col-lg-7">
-                                                    <p><strong>Museet følger regeringens anbefalinger
-                                                            forbindelse med Corona-krisen</strong></p>
-                                                    <p>Husk mundbind, hold afstand til andre gæster og sprit
-                                                        hænder.
-                                                    </p>
-                                                    <p>I museets åbningstid, skal du kunne fremvise Coronapas,
-                                                        eller
-                                                        negativ
-                                                        Coronatest som er indenfor 72 timer, samt gyldigt ID.
-                                                        Børn
-                                                        under 14
-                                                        år
-                                                        er fritaget.</p>
-                                                </div>
-
-                                                <div class="col col-12 col-lg-5">
-                                                    <img src="images/CoViking.jpg" alt="Viking med maske og hjelm"
-                                                        style="margin:auto;" />
-                                                </div>
-
-
-                                            </div>
-
-
-
-                                        </div>
-                                    </div>
+                                        <li>Overnatning på museets P-plads er ikke tilladt.</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="col col-12 col-lg-5 overlay-text">
+                    <div class="covidInfo">
+                        <div class="row">
+                            <h4>Trelleborg og COVID-19</h4>
+                            <div class="col col-12 col-lg-7">
+                                <p><strong>Museet følger regeringens anbefalinger
+                                        forbindelse med Corona-krisen</strong></p>
+                                <p>
+                                    <u> Husk</u>
+                                <ul class="m-0">
+                                    <li>Mundbind</li>
+                                    <li>Hold afstand</li>
+                                    <li>Sprit hænder</li>
+                                </ul>
+                                <br>
+                                I museets åbningstid, skal du kunne fremvise <strong>Coronapas</strong>,
+                                eller
+                                <strong>negativ coronatest</strong> som er indenfor 72 timer, samt <strong>gyldigt
+                                    ID</strong>.
+                                <br>
+                                <br>
+                                <i> Børn
+                                    under 14
+                                    år
+                                    er fritaget.</i></p>
+                            </div>
+
+                            <div class="col col-12 col-lg-5">
+                                <img src="images/CoViking.jpg" alt="Viking med maske og hjelm" style="margin:auto;" />
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
             </div>
         </div>
     </div>
