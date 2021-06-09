@@ -102,7 +102,7 @@
                             <span class="card-text-section">
                                 Skal du på oplevelse med familien, skolen eller andre, så har vi et velrettelagt forløb
                                 fyldt med oplevelser<br>
-                                <span>
+                            </span>
                         </p>
                         <a href="/familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
                     </div>
@@ -138,10 +138,9 @@
             <div class="col col-12 col-lg-4">
                 <div class="card">
 
-                    <img class="card-img-top" src="./images/rundtur.jpg" class="activity-card-image"
+                    <img class="card-img-top" src="./images/rundtur.jpg"
                         alt="Card image cap">
-                    <div class="card-body">
-                        <span itemscope itemtype="https://schema.org/Event">
+                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
                             <h4 itemprop="about" class="card-title">Rundvisning</h4>
                             <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
                             <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen
@@ -149,22 +148,19 @@
                                     I bliver vist rundt både ved
                                     ringborgen, i langhuset, og i vores museumsudstillinger.</span></p>
                             <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
-                        </span>
                     </div>
                 </div>
             </div>
             <div class=" col col-12 col-lg-4">
                 <div class="card">
-                    <img class="card-img-top" src="./images/dyr.JPG" class="activity-card-image" alt="dyr">
-                    <div class="card-body">
-                        <span itemscope itemtype="https://schema.org/Event">
+                    <img class="card-img-top" src="./images/dyr.JPG" alt="dyr">
+                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
                             <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
                             <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
                                     itemProp="endDate">15/08</span></h5>
                             <p itemprop="description" class="card-text">Sommeren står for døren, og der er masser af
                                 planlagte aktiviteter om tekstilhåndværk, vikingemad og meget andet.</p>
                             <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
-                        </span>
                     </div>
                 </div>
             </div>
@@ -172,7 +168,7 @@
             <div class=" col col-12 col-lg-4">
                 <div class="card">
 
-                    <img class="card-img-top" src="./images/mini_vikinger.jpg" class="activity-card-image"
+                    <img class="card-img-top" src="./images/mini_vikinger.jpg"
                         alt="Card image cap">
 
                     <div class="card-body">
@@ -197,7 +193,7 @@
 
                     <div class="card" style="height:unset">
 
-                        <img class="card-img-top" src="./images/trelleborg.jpeg" class="activity-card-image"
+                        <img class="card-img-top" src="./images/trelleborg.jpeg"
                             alt="Card image cap">
 
                         <div class="card-body">
@@ -207,7 +203,7 @@
                                     class="text-dark text-decoration-none"> <strong>undervisningsforløb</strong></a>
                                 tilpasset alle
                                 klassetrin.
-                                <br></br>
+                                <br>
                                 Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset
                                 og strækker
                                 sig
@@ -227,10 +223,9 @@
                     <div>
 
                         <div class="youTube-container">
-                            <iframe src="https://www.youtube.com/embed/q1mObF2eLvU" frameborder="0" allowfullscreen
-                                class="youTube-video" title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen>
+                            <iframe src="https://www.youtube.com/embed/q1mObF2eLvU" allowfullscreen
+                                class="youTube-video" title="YouTube video player"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
                             </iframe>
                         </div>
                     </div>
