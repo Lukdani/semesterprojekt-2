@@ -157,14 +157,14 @@
                                 <br>
                                 I museets åbningstid, skal du kunne fremvise <strong>Coronapas</strong>,
                                 eller
-                                <strong>negativ coronatest</strong> som er indenfor 72 timer, samt <strong>gyldigt
+                                <strong>negativ coronatest</strong> som er max må være 72 timer gammel, samt <strong>gyldigt
                                     ID</strong>.
                                 <br>
                                 <br>
                                 <i> Børn
                                     under 14
                                     år
-                                    er fritaget.</i></p>
+                                    er undtaget.</i></p>
                             </div>
 
                             <div class="col col-12 col-lg-5">

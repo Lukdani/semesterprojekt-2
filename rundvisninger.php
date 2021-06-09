@@ -137,7 +137,7 @@
                     <img src="images/udstilling_skjold.jpg" class="card-img-top"" alt="Flames" alt="Card image cap">
                     <div class="card-body bg-light">
 
-                        <p class="card-text">Vores udstilling indholder forfædres knogler, smykker og værktøjer fra oldtiden og meget andet, som vi gennemgår på <strong>ca. 30 min.</strong>
+                        <p class="card-text">Vores udstilling indholder forfædrenes knogler, smykker og værktøjer fra oldtiden m.m. Gennemgangen tager <strong>ca. 30 min.</strong>
 
                             <br><br>
                         <ul>
@@ -179,7 +179,7 @@
                     <img src="images/hus_front.png" class="card-img-top"" alt="Flames" alt="Card image cap">
                     <div class="card-body bg-light">
 
-                        <p class="card-text">Langhuset var hjem for mange vikinger. Kom en tur med ind og hør hvordan man boede og levede sammen i vores langhus. Vores tur i langhuset tager <strong>ca. 30 min</strong>, og gennemgår både konstruktionen af huset, samt et par af de mange ting det blev brugt til. udstilling indholder forfædres knogler, smykker og værktøjer fra oldtiden og meget andet, som vi gennemgår på <strong>ca. 30 min.</strong>
+                        <p class="card-text">Langhuset var hjem for mange vikinger. Kom en tur med ind og hør hvordan man boede og levede sammen i vores langhus. Turen i langhuset tager <strong>ca. 30 min</strong>, og vi gennemgår både konstruktionen af huset, samt dets mange funktioner.
 
                             <br><br>
                         <ul>

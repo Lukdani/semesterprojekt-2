@@ -101,7 +101,7 @@
                             </span>
                             <span class="card-text-section">
                                 Skal du på oplevelse med familien, skolen eller andre, så har vi et velrettelagt forløb
-                                fyldt med oplevelser<br>
+                                fyldt med eventyr.<br>
                             </span>
                         </p>
                         <a href="/familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
@@ -120,11 +120,10 @@
                         </h4>
                         <p class="card-text">
                             <span class="card-text-section">Få en <a href="/rundvisninger.php">rundvisning</a> på
-                                Vikingeborgen Trelleborg af vores
+                                Vikingeborgen Trelleborg med vores
                                 dygtige instruktører.</span>
                             <span class="card-text-section">Bliv vist rundt både ved ringborgen, i langhuset, i vores
-                                museumsudstillinger og meget
-                                andet.</span>
+                                museumsudstillinger og flere andre steder.</span>
                         </p>
                         <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
                     </div>
@@ -158,8 +157,8 @@
                             <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
                             <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
                                     itemProp="endDate">15/08</span></h5>
-                            <p itemprop="description" class="card-text">Sommeren står for døren, og der er masser af
-                                planlagte aktiviteter om tekstilhåndværk, vikingemad og meget andet.</p>
+                            <p itemprop="description" class="card-text">Sommeren står for døren og der er mange
+                                planlagte aktiviteter som tekstilhåndværk, vikingemad og meget mere.</p>
                             <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
                     </div>
                 </div>
@@ -175,7 +174,7 @@
                         <h4 class="card-title">Børneaktiviteter</h4>
                         <h5 class="card-subtitle mb-2 text-muted">For de mindste vikinger</h5>
                         <p class="card-text">Trelleborg er for <strong>hele</strong> familien, også de mindste. Vi har
-                            børnefødselsdage, krigertræning og Ester & Vester's Oplevelsesjagt</p>
+                            børnefødselsdage, krigertræning og Ester & Vester's Oplevelsesjagt.</p>
                         <a href="familier_boern.php" class="btn btn-primary">Læs mere</a>
                     </div>
 
@@ -204,10 +203,9 @@
                                 tilpasset alle
                                 klassetrin.
                                 <br>
-                                Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset
-                                og strækker
-                                sig
-                                fra rundvisninger, 1½ times forløb til hele dage og lejrskoler. Undervisningen inddrager
+                                Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset.
+                                Der er mulighed for rundvisninger, undervisning frs 1½ times forløb, til hele dage, samt lejrskoler.
+                                Undervisningen inddrager
                                 eleverne og
                                 er
                                 genstands- og dialogbaseret med fokus på et <strong>højt fagligt niveau</strong>,

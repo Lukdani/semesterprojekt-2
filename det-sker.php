@@ -34,7 +34,7 @@
             </h1>
 
             <p class="hero-details overlay-text">
-                Der er altid gang i den på Vikingeborgen Trelleborg. Der er løbende arrangementer, større vikingefester og andre kryds i kalenderen</p>
+                Der er altid gang i den på Vikingeborgen Trelleborg. Der er løbende arrangementer, større vikingefester og andre ting til kryds i kalenderen</p>
         </div>
     </div>
 </div>
@@ -68,7 +68,7 @@
                     <img src="images/ild.jpg" class="card-img-top"" alt="Flames" alt="Card image cap">
                     <div class="card-body bg-light">
 
-                        <p class="card-text"> Tilbage i vikingeernes tid, fejrede man sommer solhvervet, med en storslået fest.
+                        <p class="card-text"> Tilbage i vikingernes tid, fejrede man sommer solhvervet med en storslået fest.
                             I vore dage er midsommer fest blevet erstattet af det vi alle kender som <strong>Sankt Hans</strong>.
                             <br>
 
@@ -81,7 +81,7 @@
                             <li>Sankt Hans-bål med sang</li>
                         </ul>
                         <br>
-                        <p class="article-details">"Tag familien under armen, der er oplevelser for hele familien ved årets midsommer fest!"</p>
+                        <p class="article-details">"Tag hele familien med, der er oplevelser for alle ved årets midsommer fest!"</p>
                         </p>
 
                     </div>
@@ -103,7 +103,7 @@
                         <p class="card-text"> Hvis der var én ting vikingerne altid skulle have med til deres fester, så var det den gyldne drik <strong>mjød</strong>.
                             <br>
 
-                            Det er en facinerende historie der gemmer sig bag brygning af mjød. Fra traditionelle opskrifter til moderne udgaver, mjød er en drik der har
+                            Det er en facinerende historie der gemmer sig bag brygning af mjød. Fra traditionelle opskrifter til moderne udgaver er mjød en drik der har
                             <strong>overlevet gennem historien</strong>.
                             <br>
                         Kom og få et indblik i hvordan man bryggede mjød for over tusinde år siden, sammenlignet med brygning i dag. Smag samtidig også på noget af nutidens mest populære mjød, og få en god historie med hjem.
@@ -130,17 +130,17 @@
                     <img src="images/festival.jpg" class="card-img-top"" alt="Viking party" alt="Card image cap">
                     <div class="card-body bg-light">
 
-                        <p class="card-text"> Det er med stor stolthed at vi kan meddele at på trods af corona pandemien, er årets store vikinge festival <strong>IKKE AFLYST</strong>.
+                        <p class="card-text"> Det er med glæde og stolthed at vi kan invitere til årets store vikinge festival.
 
-                           <br> Det er årets store fest for alle rigtige vikinger, om du kommer en enkelt dag og besøger, eller pakker teltet og tager familien med hele ugen, vil der være noget for alle.
+                           <br> Det er årets store fest for alle rigtige vikinger. Om du kommer en enkelt dag på besøg, eller pakker teltet og tager familien med hele ugen, vil der være noget for alle.
                        <br> Krigerturneringer, historiefortællinger og et væld af workshops, er alle sammen med til at skabe en helt særlig stemning om Trelleborg Vikingefestival.
                         <ul>
-                            <li>Mulighed for overnatning i autentisk vikingelejer</li>
+                            <li>Mulighed for overnatning i autentisk vikingelejr</li>
                             <li>Fælleskab om det at være en ægte viking</li>
                             <li>Boder med eksotiske varer og håndlavede goder</li>
                         </ul>
                         <br>
-                        <p class="article-details">"Trelleborgs vikingefestival, bringer ægte vikinger fra nær og fjern"</p>
+                        <p class="article-details">"Trelleborgs vikingefestival bringer ægte vikinger fra nær og fjern"</p>
                         </p>
                     </div>
                 </div>
@@ -157,7 +157,7 @@
                     <img src="images/sommer.jpg" class="card-img-top"" alt="Sol og sværd" alt="Card image cap">
                     <div class="card-body bg-light">
 
-                        <p class="card-text"> Vikingehåndværk, vikingetelte og hele vikingelivet. Alt dette kan I komme og opleve fra d.27.juni - d.15.august, hvor at <strong>vikingerne bor på Trelleborg</strong>.
+                        <p class="card-text"> Vikingehåndværk, vikingetelte og hele vikingelivet. Alt dette kan I komme og opleve fra d. 27. juni - d. 15. august, hvor at <strong>vikingerne bor på Trelleborg</strong>.
 
                            <br> Museet har i løbet af denne periode, skiftende fokus på forskellige aspekter af vikingernes håndværk;
 
@@ -183,22 +183,21 @@
                 <div class="card article">
                     <div class="titledate">
                         <h5 class="card-title">Vikingetogt</h5>
-                        <p class="article-details">Tirsdag d. 17 August</p>
+                        <p class="article-details">Tirsdag d. 15 August</p>
                     </div>
                     <img src="images/togtet.jpg" class="card-img-top"" alt="Vikinger går i land" alt="Card image cap">
                     <div class="card-body bg-light">
 
-                        <p class="card-text"> "Det er endelig ved at være tid, vi skal sejle mod vest for at<strong> plyndre England</strong>.
+                        <p class="card-text"> "Så er det endelig ved at være tid til at sejle mod vest for at<strong> plyndre England</strong>!"
 
-                            Vi mødes allerede tirsdag d. 17 August, og gør os klar til at skulle på denne store færd"
+                            Vi mødes tirsdag d. 17 August og gør os klar til at skulle afsted på denne store færd.
                             <br>
 
-                            I uge 33, bygger vi hver dag op mod den store rejse det er at skulle på togt, vi kommer til at fokusere på hvad vikingerne pakkede med, hvem der drog afsted og alle de andre forberedelser der skulle til
+                            I uge 33 bygger vi hver dag op til den store rejse det er, at skulle på togt. Vi kommer til at fokusere på hvad vikingerne pakkede til rejsen, hvem der drog afsted og alle de forberedelser der skulle til.
 
                         <ul>
                             <li>Planlæg dit eget togt</li>
                             <li>Forberedelse til selve togtet</li>
-                            <li>Formning af en Vikingeskibsflåde</li>
                             <li>Fokus på konstruktion af vikingeskibet</li>
                         </ul>
                         <br>
@@ -213,15 +212,15 @@
                 <div class="card article">
                     <div class="titledate">
                         <h5 class="card-title">Vikingemarked</h5>
-                        <p class="article-details">Søndag d. 15 August</p>
+                        <p class="article-details">Søndag d. 22 August</p>
                     </div>
                     <img src="images/marked.jpeg" class="card-img-top"" alt="Vikinge bod" alt="Card image cap">
                     <div class="card-body bg-light">
 
                         <p class="card-text"> Det helt store <strong>vikingemarked</strong> afholdes traditionen tro her på Trelleborg.
 
-                            Der kommer til at være besøgende fra nær og fjern, og alle er ude for at sælge sine varer til de besøgende.
-                            Der vil være mulighed for at prøve at smage nogle af de delikatesser som vikingerne satte pris på i sin tid, og der vil være rig mulighed for at opleve den kultur der har været omkring et marked i vikingetiden.
+                            Der kommer besøgende fra nær og fjern, der alle vil sælge deres spændende varer til de besøgende.
+                            Der vil være mulighed for at smage nogle af de delikatesser som vikingerne satte pris på, og der vil være lejlighed for at opleve den kultur, der har været omkring et marked i vikingetiden.
                         <ul>
                             <li>Håndlavede smykker</li>
                             <li>Ægte vikingehåndværk</li>
@@ -229,7 +228,7 @@
                             <li>Besøgende fra hele landet</li>
                         </ul>
                         <br>
-                        <p class="article-details">"Kom og se, sælg dine varer eller gør et godt køb"</p>
+                        <p class="article-details">"Kom og se. Sælg dine varer eller gør et godt køb"</p>
                         </p>
                     </div>
                 </div>
