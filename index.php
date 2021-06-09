@@ -6,16 +6,17 @@
 
     <!--Meta tags etc. -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="description"
-        content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter">
-    <meta name="keywords" content="sommerferie, museum, familie">
+        content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter."/>
+    <meta name="keywords" content="sommerferie, museum, familie"/>
+    <meta name="robots" content="index,follow"/>
 
 
     <meta property="og:title" content="Vikingeborgen Trelleborg" />
     <meta property="og:image" content="https://astelun.dk/traelseborg/images/trelleborg.jpeg" />
     <meta property="og:description"
-        content="Trelleborg er et vikingmuseum, under åben himmel. Der er plads til hele familien, i vores langhus, samt på toppen af vores velbevarede vikingeborg." />
+        content="Trelleborg er et vikingmuseum for familien i sommerferien. Vi render rundt under åben himmel. Tag et smut ind i vores langhus, eller på toppen af vores velbevarede vikingeborg." />
 
     <!--Slut på meta -->
 
@@ -80,7 +81,7 @@
                                 Kom helt tæt på og udforsk vikingeborgen, som er opført på UNECO's liste.
                             </span>
                         </p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                        <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -125,7 +126,7 @@
                                 museumsudstillinger og meget
                                 andet.</span>
                         </p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                        <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
                     </div>
                 </div>
             </div>
