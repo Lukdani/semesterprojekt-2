@@ -51,10 +51,8 @@
                 </li>
 
             </ul>
-            <a href="" class="">
-                <button class="btn btn-primary">
-                    Booking
-                </button>
+            <a href="" class="btn btn-primary">
+                Booking
 
             </a>
 
