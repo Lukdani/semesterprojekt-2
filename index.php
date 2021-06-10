@@ -6,11 +6,11 @@
 
     <!--Meta tags etc. -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="description"
-        content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter." />
-    <meta name="keywords" content="sommerferie, museum, familie" />
-    <meta name="robots" content="index,follow" />
+        content="Forside med introvideo, kort oversigt over mulige aktiviteter og et lille skriv om skoleudflugter."/>
+    <meta name="keywords" content="sommerferie, museum, familie"/>
+    <meta name="robots" content="index,follow"/>
 
 
     <meta property="og:title" content="Vikingeborgen Trelleborg" />
@@ -28,11 +28,17 @@
     <header>
         <div class="overlay"></div>
 
-        <span>
-            <video id="heroVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                <source id="heroVideoSource" src="" type="video/mp4">
+        <span class="videoMobile">
+            <video class="videoMobile" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="./videos/trelleborg_hero.mp4" type="video/mp4">
             </video>
         </span>
+        <span class="videoDesktop">
+            <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="./videos/trelleborg_hero_desktop.mp4" type="video/mp4">
+            </video>
+        </span>
+
         <div class="container h-100">
             <div class="heroText-container">
                 <div class="heroText">
@@ -129,38 +135,40 @@
         <div class="row contentBox-container bg-light">
             <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
             <div class="col col-12 col-lg-4">
-                <div itemscope itemtype="https://schema.org/Event" class="card card--fullHeight">
+                <div class="card">
 
-                    <img itemprop="image" class="card-img-top" src="./images/rundtur.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 itemprop="about" class="card-title">Rundvisning</h4>
-                        <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
-                        <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen
-                                Trelleborg.
-                                I bliver vist rundt både ved
-                                ringborgen, i langhuset, og i vores museumsudstillinger.</span></p>
-                        <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
+                    <img class="card-img-top" src="./images/rundtur.jpg"
+                        alt="Card image cap">
+                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
+                            <h4 itemprop="about" class="card-title">Rundvisning</h4>
+                            <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
+                            <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen
+                                    Trelleborg.
+                                    I bliver vist rundt både ved
+                                    ringborgen, i langhuset, og i vores museumsudstillinger.</span></p>
+                            <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
                     </div>
                 </div>
             </div>
             <div class=" col col-12 col-lg-4">
-                <div itemscope itemtype="https://schema.org/Event" class="card card--fullHeight">
-                    <img itemprop="image" class="card-img-top" src="./images/dyr.JPG" alt="dyr">
-                    <div class="card-body">
-                        <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
-                        <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
-                                itemProp="endDate">15/08</span></h5>
-                        <p itemprop="description" class="card-text">Sommeren står for døren og der er mange
-                            planlagte aktiviteter som tekstilhåndværk, vikingemad og meget mere.</p>
-                        <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
+                <div class="card">
+                    <img class="card-img-top" src="./images/dyr.JPG" alt="dyr">
+                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
+                            <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
+                            <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
+                                    itemProp="endDate">15/08</span></h5>
+                            <p itemprop="description" class="card-text">Sommeren står for døren og der er mange
+                                planlagte aktiviteter som tekstilhåndværk, vikingemad og meget mere.</p>
+                            <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
                     </div>
                 </div>
             </div>
 
             <div class=" col col-12 col-lg-4">
-                <div class="card card--fullHeight">
+                <div class="card">
 
-                    <img class="card-img-top" src="./images/mini_vikinger.jpg" alt="Card image cap">
+                    <img class="card-img-top" src="./images/mini_vikinger.jpg"
+                        alt="Card image cap">
 
                     <div class="card-body">
                         <h4 class="card-title">Børneaktiviteter</h4>
@@ -182,9 +190,10 @@
                     <h1 class="section-header section-header--half text-light">Skoler og institutioner</h1>
 
 
-                    <div class="card card--fullHeight" style="height:unset">
+                    <div class="card" style="height:unset">
 
-                        <img class="card-img-top" src="./images/trelleborg.jpeg" alt="Card image cap">
+                        <img class="card-img-top" src="./images/trelleborg.jpeg"
+                            alt="Card image cap">
 
                         <div class="card-body">
                             <h4 class="card-title">Undervisningsforløb</h4>
@@ -195,8 +204,7 @@
                                 klassetrin.
                                 <br>
                                 Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset.
-                                Der er mulighed for rundvisninger, undervisning frs 1½ times forløb, til hele dage, samt
-                                lejrskoler.
+                                Der er mulighed for rundvisninger, undervisning frs 1½ times forløb, til hele dage, samt lejrskoler.
                                 Undervisningen inddrager
                                 eleverne og
                                 er
@@ -224,28 +232,6 @@
         </div>
     </div>
     <?php include "./includes/footer.php";?>
-
-    <script>
-    const tjekForMobil = () => window.innerWidth < 992
-    const erMobilEnhed = tjekForMobil();
-
-    videoElement = document.getElementById('heroVideo');
-    sourceElement = document.getElementById('heroVideoSource');
-
-    const VideoPause = () => {
-        document.getElementById('heroVideo').pause();
-    }
-
-    const AfspilVideo = () => {
-        videoElement.pause();
-        sourceElement.src = erMobilEnhed ? "./videos/trelleborg_hero.mp4" : "./videos/trelleborg_hero_desktop.mp4";
-        videoElement.load();
-        videoElement.play();
-    }
-
-    AfspilVideo();
-    </script>
-
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
         integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous">
     </script>
