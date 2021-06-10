@@ -1,18 +1,5 @@
 @import "./bootstrap.scss";
 
-.videoDesktop {
-  display: none;
-  @media screen and (min-width: 992px) {
-    display: unset;
-  }
-}
-
-.videoMobile {
-  @media screen and (min-width: 992px) {
-    display: none;
-  }
-}
-
 .contentBox-container {
   margin: 0 !important;
   background-size: cover;
@@ -74,7 +61,7 @@ header {
   }
 }
 
-header video {
+#heroVideo {
   position: absolute;
   top: 50%;
   left: 50%;
