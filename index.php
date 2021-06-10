@@ -27,11 +27,9 @@
     <?php include "./includes/header.php";?>
     <header>
         <div class="overlay"></div>
-
-        <span>
-            <video id="heroVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                <source id="heroVideoSource" src="" type="video/mp4">
-            </video>
+        <video id="heroVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+            <source id="heroVideoSource" src="" type="video/mp4">
+        </video>
         </span>
         <div class="container h-100">
             <div class="heroText-container">
@@ -129,10 +127,10 @@
         <div class="row contentBox-container bg-light">
             <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
             <div class="col col-12 col-lg-4">
-                <div itemscope itemtype="https://schema.org/Event" class="card card--fullHeight">
+                <div class="card">
 
-                    <img itemprop="image" class="card-img-top" src="./images/rundtur.jpg" alt="Card image cap">
-                    <div class="card-body">
+                    <img class="card-img-top" src="./images/rundtur.jpg" alt="Card image cap">
+                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
                         <h4 itemprop="about" class="card-title">Rundvisning</h4>
                         <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
                         <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen
@@ -144,9 +142,9 @@
                 </div>
             </div>
             <div class=" col col-12 col-lg-4">
-                <div itemscope itemtype="https://schema.org/Event" class="card card--fullHeight">
-                    <img itemprop="image" class="card-img-top" src="./images/dyr.JPG" alt="dyr">
-                    <div class="card-body">
+                <div class="card">
+                    <img class="card-img-top" src="./images/dyr.JPG" alt="dyr">
+                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
                         <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
                         <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
                                 itemProp="endDate">15/08</span></h5>
@@ -158,7 +156,7 @@
             </div>
 
             <div class=" col col-12 col-lg-4">
-                <div class="card card--fullHeight">
+                <div class="card">
 
                     <img class="card-img-top" src="./images/mini_vikinger.jpg" alt="Card image cap">
 
@@ -182,7 +180,7 @@
                     <h1 class="section-header section-header--half text-light">Skoler og institutioner</h1>
 
 
-                    <div class="card card--fullHeight" style="height:unset">
+                    <div class="card" style="height:unset">
 
                         <img class="card-img-top" src="./images/trelleborg.jpeg" alt="Card image cap">
 
