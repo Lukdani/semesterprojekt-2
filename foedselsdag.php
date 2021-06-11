@@ -67,7 +67,7 @@
                     bålet og bager fladbrød, der spises med pølser eller sødt fyld. Så er det tid til at drage ud på den
                     spændende Jagt på Trelleborgs skatte.
                     <br><br>
-                    <b>Pris. 2000kr. Max 20 personer
+                    <b>Pris. 1.200kr. Max 20 personer
                         Varighed: 3½ timer
                         Alderstrin: 5+
                     </b>

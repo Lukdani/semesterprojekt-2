@@ -106,11 +106,11 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
+                                                <br>
 
                                                 <p>Fri entre - mulighed for køb af <a href="rundvisninger.php"
                                                         class="text-dark text-decoration-none"><strong>rundvisning</strong></a>
                                                     m.v.</p>
-                                                </p>
 
 
                                             </div>
@@ -196,7 +196,7 @@
                                         <i> Børn
                                             under 14
                                             år
-                                            er undtaget.</i></p>
+                                            er undtaget.</i>
                                     </div>
 
                                     <div class="col col-12 col-lg-5">
@@ -229,7 +229,7 @@
                     <div class="row">
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                <img src="./images/kontakt/dame1.png" class="card-img-top"
                                     alt="Anne-Christine Frank Larsen">
                                 <div class="card-body">
                                     <h5 class="card-title">Anne-Christine Frank Larsen</h5>
@@ -250,8 +250,8 @@
                     <div class="row">
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
-                                    alt="Anne-Christine Frank Larsen">
+                                <img src="./images/kontakt/dame5.png" class="card-img-top"
+                                    alt="Anne Knabe Sørensen">
                                 <div class="card-body">
                                     <h5 class="card-title">Anne Knabe Sørensen</h5>
                                     <h6 class="card-subtitle mb-2 text-muted">Museumsinspektør</h6>
@@ -265,7 +265,7 @@
                         </div>
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                <img src="./images/kontakt/mand1.png" class="card-img-top"
                                     alt="Anne-Christine Frank Larsen">
                                 <div class="card-body">
                                     <h5 class="card-title">Jonas S. Christiansen</h5>
@@ -289,7 +289,7 @@
 
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                <img src="./images/kontakt/1.png" class="card-img-top"
                                     alt="Anne-Christine Frank Larsen">
                                 <div class="card-body">
 
@@ -312,8 +312,8 @@
 
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
-                                    alt="Anne-Christine Frank Larsen">
+                                <img src="./images/kontakt/dame3.png" class="card-img-top"
+                                    alt="Judith Winther Olsen">
                                 <div class="card-body">
                                     <h5 class="card-title">Judith Winther Olsen</h5>
                                     <h6 class="card-subtitle mb-2 text-muted">Museumsvært</h6>
@@ -327,8 +327,8 @@
                         </div>
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
-                                    alt="Anne-Christine Frank Larsen">
+                                <img src="./images/kontakt/dame4.png" class="card-img-top"
+                                    alt="Heidi Buchholz Nielsen">
                                 <div class="card-body">
                                     <h5 class="card-title">Heidi Buchholz Nielsen</h5>
                                     <h6 class="card-subtitle mb-2 text-muted">Museumsvært</h6>
@@ -350,11 +350,11 @@
 
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top"
+                                <img src="./images/kontakt/dame2.png" class="card-img-top"
                                     alt="Anne-Christine Frank Larsen">
                                 <div class="card-body">
                                     <h5 class="card-title">Linda Wittchen</h5>
-                                    <h6 class="card-subtitle mb-2 text-muted">Museumschef og leder af Trelleborg
+                                    <h6 class="card-subtitle mb-2 text-muted">Sekretær
                                     </h6>
                                     <p class="card-text">
                                         linda.wittchen@natmus.dk
@@ -370,7 +370,7 @@
                         <h4>Udehold/service</h4>
                         <div class="col col-12 col-lg-6">
                             <div class="card">
-                                <img src="./images/kontakt/1.jpeg" class="card-img-top" alt="Kim Hoffmann-Madsen">
+                                <img src="./images/kontakt/mand2.png" class="card-img-top" alt="Kim Hoffmann-Madsen">
                                 <div class="card-body">
                                     <h5 class="card-title">Kim Hoffmann-Madsen</h5>
                                     <h6 class="card-subtitle mb-2 text-muted">Servicemedarbejder</h6>
