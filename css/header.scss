@@ -80,5 +80,8 @@
 
 .navbar-spacer {
   width: 100%;
-  height: 66.38px;
+  height: 112.28px;
+  @media screen and (min-width: 992px) {
+    height: 66.38px;
+  }
 }
