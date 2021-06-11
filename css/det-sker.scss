@@ -4,9 +4,6 @@
   background-image: url("../images/viking_bod.jpg");
 }
 
-.index-hero h1 {
-}
-
 .sker-card-container {
   display: flex;
   flex-direction: row;
@@ -14,74 +11,28 @@
   justify-content: space-between;
 }
 
-.sker-card {
-  background-size: cover;
-  color: white;
-  height: 15rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  background-color: white;
-  border-radius: 0.25rem;
-  padding: 2rem;
-  margin-bottom: 2rem;
-  cursor: pointer;
-  @media screen and (min-width: 992px) {
-    width: calc(100% / 2 - 2rem);
-  }
-}
-
-.sker-card .overlay {
-  visibility: hidden;
-}
-
-.sker-card:hover .overlay {
-  visibility: visible;
-  opacity: 0.9;
-  transition: all 0.1s ease-in;
-}
-
-.sker-card:hover h3 {
-  background-color: transparent;
-  transition: background-color 0.1s ease-in;
-}
-
-.sker-card h3 {
-  background-size: cover;
-  background-color: $custom-green;
-  font-family: "Roboto", "sans-serif";
-  width: 80%;
-  text-align: center;
-  padding: 0.5rem 0;
-  border-radius: 0.25rem;
-  opacity: 0.8;
-  color: white;
-}
-
-.sker-card-children {
-  background-image: url("../images/familier_boern.jpeg");
-}
-
-.sker-card-seniors {
-  background-image: url("../images/seniorer.jpeg");
-}
-
-.sker-card-rent {
-  background-image: url("../images/langhuset.jpeg");
-}
-.sker-card-audioWalk {
-  background-image: url("../images/audio_walk.jpeg");
-}
-
-.sker-card-children {
-  background-image: url("../images/familier_boern.jpeg");
-}
-
-.titledate{
+.titledate {
   padding: 16px;
-  p{
+  p {
     margin: 0px;
   }
+}
+
+.det-sker-citat {
+  font-style: italic;
+  display: block;
+  margin-top: 1rem;
+  color: $custom-green;
+  font-size: 2rem;
+  font-family: $header-font;
+  text-align: center !important;
+}
+
+.det-sker-button {
+  display: block !important;
+  margin: auto;
+}
+
+.det-sker .card-title {
+  font-size: 1.5rem !important;
 }

@@ -69,8 +69,7 @@
                                     vikingeborge i verden.</span>
                             </span>
                             <span class="card-text-section">
-
-                                Kom helt tæt på og udforsk vikingeborgen, som er opført på UNECO's liste.
+                                Kom helt tæt på og udforsk vikingeborgen, som har ansøgt om optagelse på UNECO's liste.
                             </span>
                         </p>
                         <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
