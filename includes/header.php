@@ -45,7 +45,7 @@
                 </li>
                 <li class="nav-item">
                     <a href="fejl404.html" class="nav-link">
-                        <i class="fas fa-globe text-green-light"></i>
+                        <i class="fas fa-globe text-green-light pr-2"></i>
                         EN
                     </a>
                 </li>

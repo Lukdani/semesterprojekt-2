@@ -47,6 +47,13 @@ img {
   }
 }
 
+.section-content {
+  padding: 2rem 1rem;
+  @media screen and (min-width: 992px) {
+    padding: 2rem 3rem;
+  }
+}
+
 .section-header {
   text-align: center;
   padding-top: 1rem;
@@ -275,13 +282,15 @@ img {
 }
 
 .card {
+  margin-bottom: 1rem;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border: 0 !important;
+  @media screen and (min-width: 992px) {
+  }
 }
 
 .card--fullHeight {
+  height: calc(100% - 1rem); // For at gøre plads til margin-bottom;
   @media screen and (min-width: 992px) {
-    height: 100%;
-    margin-bottom: 0;
   }
 }
