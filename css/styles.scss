@@ -61,16 +61,22 @@ img {
   margin: auto;
   margin-bottom: 2rem;
   color: $custom-background-color;
-  // border-bottom: 3px solid $custom-red;
   font-family: $header-font;
   line-height: 1;
   font-size: 3rem;
+  font-size: 2rem;
+  @media screen and (min-width: 992px) {
+    font-size: 3rem;
+  }
 }
 
 .section-header--half {
-  text-align: left !important;
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
+  @media screen and (min-width: 992px) {
+    font-size: 2.5rem;
+    text-align: left !important;
+  }
 }
 
 .activity-card-container {
@@ -285,12 +291,8 @@ img {
   margin-bottom: 1rem;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border: 0 !important;
-  @media screen and (min-width: 992px) {
-  }
 }
 
 .card--fullHeight {
   height: calc(100% - 1rem); // For at gøre plads til margin-bottom;
-  @media screen and (min-width: 992px) {
-  }
 }
