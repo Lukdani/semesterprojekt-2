@@ -134,7 +134,7 @@
 
                     <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
                     <div class="col col-12 col-lg-4">
-                        <div class="card">
+                        <div class="card card--fullHeight">
                             <img class="card-img-top" src="./images/rundtur.jpg" alt="Card image cap">
                             <div class="card-body" itemscope itemtype="https://schema.org/Event">
                                 <h4 itemprop="about" class="card-title">Rundvisning</h4>
@@ -148,7 +148,7 @@
                         </div>
                     </div>
                     <div class=" col col-12 col-lg-4">
-                        <div class="card">
+                        <div class="card card--fullHeight">
                             <img class="card-img-top" src="./images/dyr.JPG" alt="dyr">
                             <div class="card-body" itemscope itemtype="https://schema.org/Event">
                                 <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
@@ -163,7 +163,7 @@
                     </div>
 
                     <div class=" col col-12 col-lg-4">
-                        <div class="card">
+                        <div class="card card--fullHeight">
 
                             <img class="card-img-top" src="./images/mini_vikinger.jpg" alt="Card image cap">
 
