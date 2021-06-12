@@ -35,154 +35,164 @@
             <div class="heroText-container">
                 <div class="heroText">
                     <h1>Sommer på Trelleborg</h1>
-                    <h5>Tag hele familien med</h5>
+                    <h5 class="heroText-subheader">Tag hele familien med</h5>
                 </div>
             </div>
         </div>
     </header>
-    <div>
 
+    <!-- TRELLEBORG BYDER PÅ -->
+
+    <div class="contentBox-container featuresBox overlay-container">
+        <div class="container">
+            <div class="row ">
+                <div class="overlay bg-dark"></div>
+                <div class="col col-12 overlay-text">
+                    <h1 class="section-header">Trelleborg byder på</h1>
+                </div>
+                <div class="col col-12 col-lg-4">
+                    <div class="card overlay-text">
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <i class="fab fa-fort-awesome text-primary"></i>
+                                <br>
+                                Velbevaret vikingeborg
+                            </h4>
+                            <p itemscope itemtype="https://schema.org/LandmarksOrHistoricalBuildings" class="card-text">
+                                <span class="card-text-section">
+                                    <span itemprop="name">Vikingeborgen Trelleborg</span> er <span
+                                        itemprop="description">
+                                        en af
+                                        de absolut bedst bevarede
+                                        vikingeborge i verden.</span>
+                                </span>
+                                <span class="card-text-section">
+                                    Kom helt tæt på og udforsk vikingeborgen, som har ansøgt om optagelse på UNECO's
+                                    liste.
+                                </span>
+                            </p>
+                            <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-4">
+                    <div class="card overlay-text">
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <i class="fas fa-campground text-primary"></i>
+                                <br>Kom på oplevelse
+                            </h4>
+                            <p class="card-text">
+                                <span class="card-text-section">
+                                    Få <a href="familier_boern.php#">krigertræning</a> , tilbered et <a
+                                        href="familier_boern.php#">vikingemåltid</a> over bål, overnat i <a
+                                        href="familier-og-grupper.php">langhuset</a>, hold
+                                    <a href="foedselsdag.php">børnefødselsdag</a>.
+                                </span>
+                                <span class="card-text-section">
+                                    Skal du på oplevelse med familien, skolen eller andre, så har vi et velrettelagt
+                                    forløb
+                                    fyldt med eventyr.<br>
+                                </span>
+                            </p>
+                            <a href="/familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-4">
+                    <div class="card overlay-text">
+                        <div class="card-body">
+                            <h4 class="card-title"> <i class="fas fa-walking text-primary"></i>
+                                <br>
+                                Kom på rundvisning
+                            </h4>
+                            <p class="card-text">
+                                <span class="card-text-section">Få en <a href="/rundvisninger.php">rundvisning</a> på
+                                    Vikingeborgen Trelleborg med vores
+                                    dygtige instruktører.</span>
+                                <span class="card-text-section">Bliv vist rundt både ved ringborgen, i langhuset, i
+                                    vores
+                                    museumsudstillinger og flere andre steder.</span>
+                            </p>
+                            <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="container-fluid p-0">
+
+    <!-- AKTIVITETER DENNE SOMMER -->
+
+    <div class="bg-light">
+        <div class="container">
+            <div class="contentBox-container">
+                <div class="row">
 
 
-        <div class="row contentBox-container featuresBox overlay-container">
-            <div class="overlay bg-dark"></div>
-            <div class="col col-12 overlay-text">
-                <h1 class="section-header">Trelleborg byder på</h1>
-            </div>
-            <div class="col col-12 col-lg-4">
-                <div class="card overlay-text">
-                    <div class="card-body">
 
-
-                        <h4 class="card-title">
-                            <i class="fab fa-fort-awesome text-primary"></i>
-                            <br>
-                            Velbevaret vikingeborg
-                        </h4>
-                        <p itemscope itemtype="https://schema.org/LandmarksOrHistoricalBuildings" class="card-text">
-                            <span class="card-text-section">
-                                <span itemprop="name">Vikingeborgen Trelleborg</span> er <span itemprop="description">
-                                    en af
-                                    de absolut bedst bevarede
-                                    vikingeborge i verden.</span>
-                            </span>
-                            <span class="card-text-section">
-                                Kom helt tæt på og udforsk vikingeborgen, som har ansøgt om optagelse på UNECO's liste.
-                            </span>
-                        </p>
-                        <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
+                    <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
+                    <div class="col col-12 col-lg-4">
+                        <div class="card">
+                            <img class="card-img-top" src="./images/rundtur.jpg" alt="Card image cap">
+                            <div class="card-body" itemscope itemtype="https://schema.org/Event">
+                                <h4 itemprop="about" class="card-title">Rundvisning</h4>
+                                <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
+                                <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen
+                                        Trelleborg.
+                                        I bliver vist rundt både ved
+                                        ringborgen, i langhuset, og i vores museumsudstillinger.</span></p>
+                                <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div class="col col-12 col-lg-4">
-                <div class="card overlay-text">
-                    <div class="card-body">
-                        <h4 class="card-title">
-                            <i class="fas fa-campground text-primary"></i>
-                            <br>Kom på oplevelse
-                        </h4>
-                        <p class="card-text">
-                            <span class="card-text-section">
-                                Få <a href="familier_boern.php#">krigertræning</a> , tilbered et <a
-                                    href="familier_boern.php#">vikingemåltid</a> over bål, overnat i <a
-                                    href="familier-og-grupper.php">langhuset</a>, hold
-                                <a href="foedselsdag.php">børnefødselsdag</a>.
-                            </span>
-                            <span class="card-text-section">
-                                Skal du på oplevelse med familien, skolen eller andre, så har vi et velrettelagt forløb
-                                fyldt med eventyr.<br>
-                            </span>
-                        </p>
-                        <a href="/familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
+                    <div class=" col col-12 col-lg-4">
+                        <div class="card">
+                            <img class="card-img-top" src="./images/dyr.JPG" alt="dyr">
+                            <div class="card-body" itemscope itemtype="https://schema.org/Event">
+                                <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
+                                <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>-
+                                    <span itemProp="endDate">15/08</span>
+                                </h5>
+                                <p itemprop="description" class="card-text">Sommeren står for døren og der er mange
+                                    planlagte aktiviteter som tekstilhåndværk, vikingemad og meget mere.</p>
+                                <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
+                            </div>
+                        </div>
                     </div>
 
-                </div>
-            </div>
-            <div class="col col-12 col-lg-4">
-                <div class="card overlay-text">
-                    <div class="card-body">
+                    <div class=" col col-12 col-lg-4">
+                        <div class="card">
 
+                            <img class="card-img-top" src="./images/mini_vikinger.jpg" alt="Card image cap">
 
-                        <h4 class="card-title"> <i class="fas fa-walking text-primary"></i>
-                            <br>
-                            Kom på rundvisning
-                        </h4>
-                        <p class="card-text">
-                            <span class="card-text-section">Få en <a href="/rundvisninger.php">rundvisning</a> på
-                                Vikingeborgen Trelleborg med vores
-                                dygtige instruktører.</span>
-                            <span class="card-text-section">Bliv vist rundt både ved ringborgen, i langhuset, i vores
-                                museumsudstillinger og flere andre steder.</span>
-                        </p>
-                        <a href="fejl404.html" class="btn btn-primary">Læs mere</a>
+                            <div class="card-body">
+                                <h4 class="card-title">Børneaktiviteter</h4>
+                                <h5 class="card-subtitle mb-2 text-muted">For de mindste vikinger</h5>
+                                <p class="card-text">Trelleborg er for <strong>hele</strong> familien, også de mindste.
+                                    Vi
+                                    har
+                                    børnefødselsdage, krigertræning og Ester & Vester's Oplevelsesjagt.</p>
+                                <a href="familier_boern.php" class="btn btn-primary">Læs mere</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-        </div>
-
-        <div class="row contentBox-container bg-light">
-            <h1 class="section-header text-primary">Aktiviteter denne sommer</h1>
-            <div class="col col-12 col-lg-4">
-                <div class="card">
-
-                    <img class="card-img-top" src="./images/rundtur.jpg" alt="Card image cap">
-                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
-                        <h4 itemprop="about" class="card-title">Rundvisning</h4>
-                        <h5 class="card-subtitle mb-2 text-muted">Fra 100 DKK,-</h5>
-                        <p class="card-text"><span itemprop="description">Få en rundvisning på Vikingeborgen
-                                Trelleborg.
-                                I bliver vist rundt både ved
-                                ringborgen, i langhuset, og i vores museumsudstillinger.</span></p>
-                        <a href="rundvisninger.php" class="btn btn-primary">Læs mere</a>
-                    </div>
-                </div>
-            </div>
-            <div class=" col col-12 col-lg-4">
-                <div class="card">
-                    <img class="card-img-top" src="./images/dyr.JPG" alt="dyr">
-                    <div class="card-body" itemscope itemtype="https://schema.org/Event">
-                        <h4 class="card-title" itemprop="name"> Vikingesommer</h4>
-                        <h5 class="card-subtitle mb-2 text-muted"><span itemprop="startDate">27/06 </span>- <span
-                                itemProp="endDate">15/08</span></h5>
-                        <p itemprop="description" class="card-text">Sommeren står for døren og der er mange
-                            planlagte aktiviteter som tekstilhåndværk, vikingemad og meget mere.</p>
-                        <a href="det-sker.php" class="btn btn-primary">Læs mere</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class=" col col-12 col-lg-4">
-                <div class="card">
-
-                    <img class="card-img-top" src="./images/mini_vikinger.jpg" alt="Card image cap">
-
-                    <div class="card-body">
-                        <h4 class="card-title">Børneaktiviteter</h4>
-                        <h5 class="card-subtitle mb-2 text-muted">For de mindste vikinger</h5>
-                        <p class="card-text">Trelleborg er for <strong>hele</strong> familien, også de mindste. Vi har
-                            børnefødselsdage, krigertræning og Ester & Vester's Oplevelsesjagt.</p>
-                        <a href="familier_boern.php" class="btn btn-primary">Læs mere</a>
-                    </div>
-
-                </div>
-
             </div>
         </div>
+    </div>
 
-        <div class="row contentBox-container bg-primary">
 
+    <!-- SKOLER OG INSTITUTIONER + YOUTUBE VIDEO -->
+
+    <div class="bg-primary pb-4">
+        <div class="container">
             <div class="row">
                 <div class="col col-lg-6 col-12">
                     <h1 class="section-header section-header--half text-light">Skoler og institutioner</h1>
-
-
                     <div class="card" style="height:unset">
-
                         <img class="card-img-top" src="./images/trelleborg.jpeg" alt="Card image cap">
-
                         <div class="card-body">
                             <h4 class="card-title">Undervisningsforløb</h4>
                             <p class="card-text">
@@ -202,7 +212,6 @@
                             </p>
                             <a href="familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
                         </div>
-
                     </div>
                 </div>
                 <div class="col col-lg-6 col-12">
@@ -220,15 +229,13 @@
             </div>
         </div>
     </div>
+
     <?php include "./includes/footer.php";?>
 
     <script>
+    // Funktion til at tjekke, om enheden er en mobil enhed;
     const tjekForMobil = () => window.innerWidth < 992
-    const erMobilEnhed = tjekForMobil();
 
-    function isMobile() {
-
-    }
     videoElement = document.getElementById('heroVideo');
     sourceElement = document.getElementById('heroVideoSource');
 
@@ -236,14 +243,26 @@
         document.getElementById('heroVideo').pause();
     }
 
-    const AfspilVideo = () => {
+    // Funktionen tager en boolean som parameter, som fortæller, om videoen skal vises til en mobil enhed;
+    const AfspilVideo = (erMobilEnhed) => {
         videoElement.pause();
         sourceElement.src = erMobilEnhed ? "./videos/trelleborg_hero.mp4" : "./videos/trelleborg_hero_desktop.mp4";
         videoElement.load();
         videoElement.play();
     }
 
-    AfspilVideo();
+    // Event listener, som kalder en funktion, når window-objectet skifter størrelse;
+    // Dette er for at sikre, at den rigtige video bliver vist, hvis fx inspector mode bliver brugt til at ændre til mobilvisning;
+    window.onresize = opdaterVideoSrc;
+
+    // Det er denne funktion, som bliver kaldt af ovennævnte event listener;
+    function opdaterVideoSrc() {
+        erMobilEnhed = tjekForMobil();
+        AfspilVideo(tjekForMobil());
+    }
+
+    // Når siden indlæses, skal funktionen kaldes;
+    AfspilVideo(tjekForMobil());
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"

@@ -3,11 +3,11 @@
 .contentBox-container {
   margin: 0 !important;
   background-size: cover;
-  padding: 2rem 1rem;
+  padding: 2rem 0;
   @media screen and (min-width: 992px) {
     height: 100%;
     margin-bottom: 0;
-    padding: 2rem 3rem;
+    padding: 2rem 0;
   }
 }
 
@@ -93,11 +93,14 @@ header .overlay {
 }
 
 .heroText {
-  color: white;
+  font-family: $header-font;
+  color: $light;
   margin: auto;
   h1 {
-    font-family: $header-font;
     font-size: 3rem;
+  }
+  .heroText-subheader {
+    font-size: 1.6rem;
   }
 }
 

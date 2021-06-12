@@ -30,75 +30,81 @@
     <?php include "./includes/header.php";?>
 
     <div class="section">
+        <div class="container">
 
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="/">Forside</a></li>
-                <li class="breadcrumb-item"><a href="http://localhost:8888/familier-og-grupper.php">Familier og
-                        grupper</a></li>
-                <li class="breadcrumb-item"><a href="http://localhost:8888/familier_boern.php">Familier og børn</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Børnefødselsdag</li>
-            </ol>
-        </nav>
-        <div class="row">
-            <div class="col col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Forside</a></li>
+                    <li class="breadcrumb-item"><a href="http://localhost:8888/familier-og-grupper.php">Familier og
+                            grupper</a></li>
+                    <li class="breadcrumb-item"><a href="http://localhost:8888/familier_boern.php">Familier og børn</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">Børnefødselsdag</li>
+                </ol>
+            </nav>
+            <div class="row">
+                <div class="col col-12">
 
-                <h1 class="section-header section-header--half text-primary">
-                    Børnefødselsdag
-                </h1>
-            </div>
-            <div class="col col-12 col-lg-8">
-            
-
-                <img src="./images/foedselsdag.jpeg" alt="">
-                <div class="mt-3 mb-3 p-3 bg-white foedselsdag-info">
-                    Hold børnefødselsdag på Trelleborg – en dag med historiske lege, vikingemad, sjove aktiviteter og
-                    masser af gode oplevelser.
-
-                    Vikingeborgen Trelleborg tilbyder unikke rammer for en spændende børnefødselsdag på ægte
-                    vikingemanér med masser af gode oplevelser.
-                    <br><br>
-                    Dagen vil blive sammensat ud fra aldersgruppen og om fødselsdagsbarnet er en dreng eller en pige.
-                    Museet vil udarbejde et oplæg til programmet ud fra ønsker og behov.
-                    <br><br>
-                    Et eksempel:
-                    Børnene mødes på Trelleborg. Efter velkomsten får børnene vikingetøj på. Den første time prøver
-                    børnene bueskydning, tinstøbning, laver læderpunge eller leger vikingelege. Derefter samles alle ved
-                    bålet og bager fladbrød, der spises med pølser eller sødt fyld. Så er det tid til at drage ud på den
-                    spændende Jagt på Trelleborgs skatte.
-                    <br><br>
-                    <b>Pris. 1.200kr. Max 20 personer
-                        Varighed: 3½ timer
-                        Alderstrin: 5+
-                    </b>
+                    <h1 class="section-header section-header--half text-primary">
+                        Børnefødselsdag
+                    </h1>
                 </div>
-            </div>
-            <div class="col col-12 col-lg-4">
-                <div class="infoBox">
-                    <table>
-                        <tbody>
-                            <tr>
-                                <td>Pris:</td>
-                                <td>1.200 kr.</td>
-                            </tr>
-                            <tr>
-                                <td>Varighed:</td>
-                                <td>3 ½ timer</td>
-                            </tr>
-                            <tr>
-                                <td>Aldersgruppe:</td>
-                                <td>5 +</td>
-                            </tr>
-                            <tr>
-                                <td>Deltagerantal:</td>
-                                <td>Max 20</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <button class="btn btn-primary">Book børnefødslesdag</button>
-                </div>
-                <?php include "./includes/boern_nav.php"; ?>
+                <div class="col col-12 col-lg-8">
 
+
+                    <img style="width: 100%; border-radius: .25rem;" src="./images/foedselsdag.jpeg" alt="">
+                    <div class="mt-3 mb-3 p-3 bg-white foedselsdag-info">
+                        Hold børnefødselsdag på Trelleborg – en dag med historiske lege, vikingemad, sjove aktiviteter
+                        og
+                        masser af gode oplevelser.
+
+                        Vikingeborgen Trelleborg tilbyder unikke rammer for en spændende børnefødselsdag på ægte
+                        vikingemanér med masser af gode oplevelser.
+                        <br><br>
+                        Dagen vil blive sammensat ud fra aldersgruppen og om fødselsdagsbarnet er en dreng eller en
+                        pige.
+                        Museet vil udarbejde et oplæg til programmet ud fra ønsker og behov.
+                        <br><br>
+                        Et eksempel:
+                        Børnene mødes på Trelleborg. Efter velkomsten får børnene vikingetøj på. Den første time prøver
+                        børnene bueskydning, tinstøbning, laver læderpunge eller leger vikingelege. Derefter samles alle
+                        ved
+                        bålet og bager fladbrød, der spises med pølser eller sødt fyld. Så er det tid til at drage ud på
+                        den
+                        spændende Jagt på Trelleborgs skatte.
+                        <br><br>
+                        <b>Pris. 1.200kr. Max 20 personer
+                            Varighed: 3½ timer
+                            Alderstrin: 5+
+                        </b>
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-4">
+                    <div class="infoBox">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>Pris:</td>
+                                    <td>1.200 kr.</td>
+                                </tr>
+                                <tr>
+                                    <td>Varighed:</td>
+                                    <td>3 ½ timer</td>
+                                </tr>
+                                <tr>
+                                    <td>Aldersgruppe:</td>
+                                    <td>5 +</td>
+                                </tr>
+                                <tr>
+                                    <td>Deltagerantal:</td>
+                                    <td>Max 20</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <button class="btn btn-primary">Book børnefødslesdag</button>
+                    </div>
+                    <?php include "./includes/boern_nav.php"; ?>
+                </div>
             </div>
         </div>
     </div>

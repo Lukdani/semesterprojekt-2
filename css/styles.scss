@@ -43,14 +43,14 @@ img {
 .section {
   background-color: $custom-background-color;
   @media screen and (min-width: 992px) {
-    padding: 1rem 5rem;
+    padding: 1rem 0;
   }
 }
 
 .section-content {
   padding: 2rem 1rem;
   @media screen and (min-width: 992px) {
-    padding: 2rem 3rem;
+    padding: 2rem 0rem;
   }
 }
 

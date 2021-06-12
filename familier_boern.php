@@ -31,115 +31,118 @@
 
 
     <div class="section">
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="#">Home</a></li>
-                <li class="breadcrumb-item"><a href="http://localhost:8888/familier-og-grupper.php">Familier og
-                        grupper</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Familier og børn</li>
-            </ol>
-        </nav>
-        <div class="family-card-container">
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/rundvisning.jpeg" class="activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Rundvisning</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+        <div class="container">
+
+
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a href="http://localhost:8888/familier-og-grupper.php">Familier og
+                            grupper</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Familier og børn</li>
+                </ol>
+            </nav>
+            <div class="family-card-container">
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/rundvisning.jpeg" class="activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Rundvisning</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/foedselsdag.jpeg" class="activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Børnefødselsdag</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="./foedselsdag.php" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/foedselsdag.jpeg" class="activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Børnefødselsdag</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="./foedselsdag.php" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/krigertraening.jpeg"" class=" activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Krigertræning</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/krigertraening.jpeg"" class=" activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Krigertræning</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/foredrag.jpeg"" class=" activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Foredrag</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/foredrag.jpeg"" class=" activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Foredrag</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/10kamp.png"" class=" activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">10 kamp</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/10kamp.png"" class=" activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">10 kamp</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/familiedag.jpeg" class="activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Familiedag</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/familiedag.jpeg" class="activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Familiedag</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/vikingemenu.jpeg" class="activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Tilbered en vikingemenu</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/vikingemenu.jpeg" class="activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Tilbered en vikingemenu</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class=" card-25">
-                <div class="card">
-                    <img class="card-img-top" src="./images/oplevelsesjagten.png" class="activity-card-image"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Oplevelsesjagten</h5>
-                        <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
-                        <a href="#" class="btn btn-primary">Læs mere</a>
+                <div class=" card-25">
+                    <div class="card">
+                        <img class="card-img-top" src="./images/oplevelsesjagten.png" class="activity-card-image"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Oplevelsesjagten</h5>
+                            <p class="card-text">Hør mere om lorem ipsum, som lorem ipsum.</p>
+                            <a href="#" class="btn btn-primary">Læs mere</a>
+                        </div>
                     </div>
                 </div>
+
             </div>
-
-
 
         </div>
     </div>

@@ -13,7 +13,7 @@
   padding: 0.5rem 2rem;
   @media screen and (min-width: 992px) {
     background-color: $custom-green-opacity;
-    padding: 0 2rem !important;
+    padding: 0 3rem !important;
   }
 }
 
@@ -55,26 +55,27 @@
 }
 
 .navbar-toggler i {
-  color: white;
+  color: $light;
 }
 
 .dropdown-menu.show {
   background-color: $custom-green;
   @media screen and (min-width: 992px) {
-    background-color: white;
+    background-color: $light;
     color: black;
   }
 }
 
 .dropdown-item {
+  color: $light !important;
   @media screen and (min-width: 992px) {
-    color: black !important;
+    color: $light !important;
   }
 }
 
 .dropdown-item:hover {
   @media screen and (min-width: 992px) {
-    color: white !important;
+    color: $light !important;
   }
 }
 
