@@ -266,7 +266,7 @@
     }
 
     // Når siden indlæses, skal funktionen kaldes;
-    AfspilVideo(tjekForMobil());
+    AfspilVideo(erMobilEnhed);
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
