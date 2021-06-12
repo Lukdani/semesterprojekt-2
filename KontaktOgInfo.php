@@ -89,7 +89,7 @@
                         m.v.</p>
                     <p style="font-size:.9rem;">OBS: Uden for åbningstiden er der fri adgang til Trelleborgs område
                         gennem lågen til venstre for
-                        museets indgang).</p>
+                        museets indgang.</p>
 
                 </div>
             </div>
