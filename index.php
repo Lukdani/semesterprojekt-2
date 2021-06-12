@@ -238,6 +238,7 @@
 
     videoElement = document.getElementById('heroVideo');
     sourceElement = document.getElementById('heroVideoSource');
+    let erMobilEnhed = tjekForMobil();
 
     const VideoPause = () => {
         document.getElementById('heroVideo').pause();
@@ -257,8 +258,11 @@
 
     // Det er denne funktion, som bliver kaldt af ovennævnte event listener;
     function opdaterVideoSrc() {
-        erMobilEnhed = tjekForMobil();
-        AfspilVideo(tjekForMobil());
+        erMobilEnhedNu = tjekForMobil();
+        if (erMobilEnhedNu != erMobilEnhed) {
+            erMobilEnhed = erMobilEnhedNu;
+            AfspilVideo(erMobilEnhedNu);
+        }
     }
 
     // Når siden indlæses, skal funktionen kaldes;
