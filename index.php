@@ -51,7 +51,7 @@
                     <h1 class="section-header">Trelleborg byder på</h1>
                 </div>
                 <div class="col col-12 col-lg-4">
-                    <div class="card overlay-text">
+                    <div class="card card--fullHeight overlay-text">
                         <div class="card-body">
                             <h4 class="card-title">
                                 <i class="fab fa-fort-awesome text-primary"></i>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="col col-12 col-lg-4">
-                    <div class="card overlay-text">
+                    <div class="card card--fullHeight  overlay-text">
                         <div class="card-body">
                             <h4 class="card-title">
                                 <i class="fas fa-campground text-primary"></i>
@@ -101,7 +101,7 @@
                     </div>
                 </div>
                 <div class="col col-12 col-lg-4">
-                    <div class="card overlay-text">
+                    <div class="card card--fullHeight  overlay-text">
                         <div class="card-body">
                             <h4 class="card-title"> <i class="fas fa-walking text-primary"></i>
                                 <br>
