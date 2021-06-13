@@ -52,7 +52,9 @@
                 <div class="overlay bg-secondary"></div>
                 <h3>Seniorer</h3>
                 <p class="overlay-description">Læs mere om mjødsmagning, foredrag, rundvisning og andre spændende
-                    oplevelser</p>
+                    oplevelser
+
+                </p>
             </div>
             <div class="family-card family-card-rent overlay-container">
                 <div class="overlay bg-secondary"></div>

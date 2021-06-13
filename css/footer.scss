@@ -13,9 +13,11 @@
 
 .footer .someSection {
   text-align: left;
-  margin: 1rem 0;
+
   a {
     text-decoration: none;
+    display: inline-block;
+    margin: 1rem 0;
   }
   @media screen and (min-width: 992px) {
     text-align: right;
@@ -28,8 +30,8 @@
   color: $custom-red;
 }
 
-.footer .someIcon:not(:last-of-type) {
-  margin-right: 0.5rem;
+.footer .someSection a:not(:last-of-type) {
+  margin-right: 0.25rem;
 }
 
 .footer .someIcon:hover {

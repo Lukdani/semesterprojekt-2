@@ -18,6 +18,13 @@ p {
   list-style-position: outside !important;
 }
 
+.praktiskInfo-aabningstider-table {
+  font-size: 1.1rem;
+  tr td:not(:first-child) {
+    padding-left: 1rem;
+  }
+}
+
 .kontaktGrid {
   padding-bottom: 2rem;
   padding: 2rem 3rem;

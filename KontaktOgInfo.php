@@ -58,14 +58,18 @@
                 <!-- ÅBNINGSTIDER OG COVIDINFO-->
 
                 <h4 class="section-header overlay-text">Åbningstider og entré</h4>
+
+
+
+
                 <div class="col col-12 col-lg-6 pratiskInfo">
                     <div class="card card--fullHeight overlay-text" style="text-align:left;">
-                        <img src="./images/hegn.jpg" class="card-img-top" alt="Indgangsareal ved museet">
+                        <img src="./images/hegn.JPG" class="card-img-top" alt="Indgangsareal ved museet">
                         <div class="card-body">
 
                             <h5 class="praktiskInfo-subheader">Åbningstider og entré</h5>
                             <p>
-                            <table>
+                            <table class="praktiskInfo-aabningstider-table">
                                 <tbody>
                                     <tr>
                                         <td>Mandag:</td>
@@ -98,10 +102,10 @@
                             <p>Fri entre - mulighed for køb af <a href="rundvisninger.php"
                                     class="text-dark text-decoration-none"><strong>rundvisning</strong></a>
                                 m.v.</p>
-                            <p style="font-size:.9rem;">OBS: Uden for åbningstiden er der fri adgang til Trelleborgs
-                                område
-                                gennem lågen til venstre for
-                                museets indgang.</p>
+                            <p><i>OBS: Uden for museets åbningstid er der <strong>fri adgang</strong> til Trelleborgs
+                                    område
+                                    gennem lågen til venstre for
+                                    museets indgang.</i></p>
 
                         </div>
                     </div>
@@ -144,7 +148,7 @@
                                                 <i class="fas fa-notes-medical"></i>
                                                 I åbningstiden skal du fremvise coronapas
                                                 eller negativ coronatest (max 72 timer gammel)
-                                                samt gyldigt ID.
+                                                samt ID
                                             </span>
                                         </div>
                                         <br>
@@ -152,7 +156,7 @@
                                             <i> Børn
                                                 under 14
                                                 år
-                                                er undtaget.</i>
+                                                er undtaget</i>
 
                                         </p>
                                     </div>

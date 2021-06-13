@@ -188,43 +188,50 @@
 
     <div class="bg-primary pb-4">
         <div class="container">
-            <div class="row">
-                <div class="col col-lg-6 col-12">
-                    <h1 class="section-header section-header--half text-light">Skoler og institutioner</h1>
-                    <div class="card" style="height:unset">
-                        <img class="card-img-top" src="./images/trelleborg.jpeg" alt="Card image cap">
-                        <div class="card-body">
-                            <h4 class="card-title">Undervisningsforløb</h4>
-                            <p class="card-text">
-                                Vikingeborgen Trelleborg tilbyder mange spændende <a href="/familier-og-grupper.php"
-                                    class="text-dark text-decoration-none"> <strong>undervisningsforløb</strong></a>
-                                tilpasset alle
-                                klassetrin.
-                                <br>
-                                Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i langhuset.
-                                Der er mulighed for rundvisninger, undervisning frs 1½ times forløb, til hele dage, samt
-                                lejrskoler.
-                                Undervisningen inddrager
-                                eleverne og
-                                er
-                                genstands- og dialogbaseret med fokus på et <strong>højt fagligt niveau</strong>,
-                                <strong>bevægelse</strong> og <strong>praktisk håndværk</strong>.
-                            </p>
-                            <a href="familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col col-lg-6 col-12">
-                    <h1 class="section-header section-header--half  text-light">Se vores video</h1>
-                    <div>
+            <div class="contentBox-container">
 
-                        <div class="youTube-container">
-                            <iframe src="https://www.youtube.com/embed/2r4km-3K3Fk" allowfullscreen
-                                class="youTube-video" title="YouTube video player"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
-                            </iframe>
+                <div class="row">
+                    <div class="col col-lg-6 col-12">
+                        <h1 class="section-header section-header--half text-light">Skoler og institutioner</h1>
+                        <div class="card bg-background-color" style="height:unset">
+                            <img class="card-img-top" src="./images/trelleborg.jpeg" alt="Card image cap">
+                            <div class="card-body">
+                                <h4 class="card-title">Undervisningsforløb</h4>
+                                <p class="card-text">
+                                    Vikingeborgen Trelleborg tilbyder mange spændende <a href="/familier-og-grupper.php"
+                                        class="text-dark text-decoration-none"> <strong>undervisningsforløb</strong></a>
+                                    tilpasset alle
+                                    klassetrin.
+                                    <br>
+                                    Undervisningen foregår primært udendørs i den rekonstruerede landsby eller i
+                                    langhuset.
+                                    Der er mulighed for rundvisninger, undervisning frs 1½ times forløb, til hele dage,
+                                    samt
+                                    lejrskoler.
+                                    <br>
+                                    Undervisningen inddrager
+                                    eleverne og
+                                    er
+                                    genstands- og dialogbaseret med fokus på et <strong>højt fagligt niveau</strong>,
+                                    <strong>bevægelse</strong> og <strong>praktisk håndværk</strong>.
+                                </p>
+                                <a href="familier-og-grupper.php" class="btn btn-primary">Læs mere</a>
+                            </div>
                         </div>
                     </div>
+                    <div class="col col-lg-6 col-12">
+                        <h1 class="section-header section-header--half  text-light">Se vores video</h1>
+                        <div>
+
+                            <div class="youTube-container">
+                                <iframe src="https://www.youtube.com/embed/2r4km-3K3Fk" allowfullscreen
+                                    class="youTube-video" title="YouTube video player"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                                </iframe>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
