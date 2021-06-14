@@ -98,10 +98,17 @@
                                 </tbody>
                             </table>
                             <br>
-
                             <p>Fri entre - mulighed for køb af <a href="rundvisninger.php"
                                     class="text-dark text-decoration-none"><strong>rundvisning</strong></a>
                                 m.v.</p>
+                            Trelleborg Allé 4,
+                            Hejninge,
+                            4200 Slagelse,
+                            +45 41 20 63 99,
+                            email@trelleborg.dk
+                            <br>
+                            <br>
+
                             <p><i>OBS: Uden for museets åbningstid er der <strong>fri adgang</strong> til Trelleborgs
                                     område
                                     gennem lågen til venstre for
